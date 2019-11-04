@@ -26,7 +26,7 @@
 
 | Time | Lecture Topic | Interactive Link | Lecturer |
 |------|---------------|------------------|----------|
-| 08:30-09:15 | **Basic Setups and Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/master/welcome/welcome.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/master/run_python/running_python.ipynb) | Jules |
+| 08:30-09:15 | **Basic Setups and Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/welcome/blob/master/welcome.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/master/run_python/running_python.ipynb) | Jules |
 | 09:15-10:00 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/data_types/blob/master/Python_basic_data_types.ipynb) | Jules |
 | 10:00-10:15 | Break |  |  |
 | 10:15-11:35 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/conditional_logic/blob/master/conditionals.ipynb) | Carlos |
