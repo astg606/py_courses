@@ -1,5 +1,9 @@
 ## An Accelerated One-Day Beginner Python Class for Programmers
 
+This accelerated course is designed for participants who quickly want to learn the basic concepts of the Python language and be able to use Python related tools for their work. In the morning, we will cover the foundations of Python (data types, conditional statements, loops, functions, modules). In the afternoon, we will present various Python tools (netCDF4, h5py, Matplotlib, Pandas, etc.) that are used to read/write files (of different formats), manipulate data and perform visualization.
+
+**Prerequisites**: Ability to program in another language (C, C++, Fortran, Java, Matlab, IDL, etc.) and knowledge of at least one file format (such as csv, hdf, netcdf). Participants are also expected to be able manipulate a web browser, to open command prompt window or terminal window and edit text files.
+
 
 ### AGENDA
 
