@@ -35,7 +35,7 @@ This accelerated course is designed for participants who quickly want to learn t
 | 10:00-11:10 | **Object Oriented Programming** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb) | Jules |
 | 11:10-12:00 | **Python Coding Standards** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/coding_standards/introduction_coding_standards.ipynb) | Bruce |
 | 12:00-13:00 | Lunch Break |  |  |
-| 13:00-14:00 | **Python Decorators** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/decorators/introduction_introduction_decorators.ipynb) | Jules |
+| 13:00-14:00 | **Python Decorators** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/decorators/introduction_decorators.ipynb) | Jules |
 | 14:00-15:00 | **pickle Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/introduction_pickle.ipynb) | Jules |
 | 15:00-15:15 | Break |  |  |
 | 15:15-16:30 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) | Bruce |
