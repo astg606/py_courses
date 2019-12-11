@@ -18,13 +18,12 @@ This accelerated course is designed for participants who quickly want to learn t
 | 10:30-11:10 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) | Bruce |
 | 11:10-12:00 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
 | 12:00-13:00 | Lunch Break |  |  |
-| 13:00-13:35 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) | Bruce |
-| 13:35-14:00 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Jules |
-| 14:00-15:00 | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) | Jules |
-| 15:00-15:15 | Break |  |  |
-| 15:15-16:15 | **Reading/Writing Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
-| 16:15-17:15 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) | Jules |
-| 17:15-17:30 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
+| 13:00-13:45 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) | Bruce |
+| 13:45-14:30 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Jules |
+| 14:30-15:30 | **Reading/Writing Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
+| 15:30-15:45 | Break |  |  |
+| 15:45-16:45 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) | Jules |
+| 16:45-17:00 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
 
 ### Day 2
 
