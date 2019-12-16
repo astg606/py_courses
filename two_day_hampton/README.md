@@ -11,7 +11,7 @@ To install the Anaconda Python distribution on your local platform, follow the i
 
       https://docs.continuum.io/anaconda/install/
 
-       [https://docs.continuum.io/anaconda/install/](https://docs.continuum.io/anaconda/install/)
+       [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
 
 ## AGENDA
