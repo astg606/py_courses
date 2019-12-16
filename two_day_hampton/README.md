@@ -5,6 +5,13 @@ This accelerated course is designed for participants who quickly want to learn t
 **Prerequisites**: Ability to program in another language (C, C++, Fortran, Java, Matlab, IDL, etc.) and knowledge of at least one file format (such as csv, hdf, netcdf). Participants are also expected to be able manipulate a web browser, to open command prompt window or terminal window and edit text files.
 
 
+### Installing the Anaconda Python Distribution
+
+To install the Anaconda Python distribution on your local platform, follow the instructions at:
+
+       <a href="https://docs.continuum.io/anaconda/install/>https://docs.continuum.io/anaconda/install/</a>
+
+
 ## AGENDA
 
 ### Day 1
