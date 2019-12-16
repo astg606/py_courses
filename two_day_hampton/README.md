@@ -9,7 +9,7 @@ This accelerated course is designed for participants who quickly want to learn t
 
 To install the Anaconda Python distribution on your local platform, follow the instructions at:
 
-       <a href="https://docs.continuum.io/anaconda/install/>https://docs.continuum.io/anaconda/install/</a>
+       <a href="https://docs.continuum.io/anaconda/install/">https://docs.continuum.io/anaconda/install/</a>
 
 
 ## AGENDA
