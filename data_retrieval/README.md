@@ -22,7 +22,7 @@ To install (not required) the Anaconda Python distribution on your local platfor
 |---------------|------------------|----------|
 | **Serialization/Deserialization with pickle**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/introduction_pickle.ipynb) | Jules |
 | **Data Retrieval**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/introduction_data_retrieval.ipynb) | Jules |
-| **Serialization/Deserialization and Web Scrapping with json**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/introduction_json.ipynb) | Jules |
+| **Serialization/Deserialization and Web Scraping with json**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/introduction_json.ipynb) | Jules |
 
 
 
