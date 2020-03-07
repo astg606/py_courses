@@ -43,8 +43,8 @@ To install (not required) the Anaconda Python distribution on your local platfor
 | **ML Concepts** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
 | **Exploratory Data Analysis** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb) |
 | **Regression with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) |
-| **Regression with Tensorflow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_regression_tensorflow.ipynb) |
-| **Surpervised Learning with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_supervised_parallelization.ipynb) |
+| **Regression with Tensorflow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb) |
+| **Surpervised Learning with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_supervised_parallelization.ipynb) |
 
 
 <!---
