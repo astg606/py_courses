@@ -12,7 +12,7 @@ To install (not required) the Anaconda Python distribution on your local platfor
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to Jupyter Notebook**  | Coming... |
-| **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
+| **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 
 #### Introduction to Python
 
