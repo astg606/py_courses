@@ -1,17 +1,16 @@
 # Helio Hackweek 2020
-## Self-Taught Courses
 
-This page was created to help partcipants obtained the expected computer programming knowlege befoe the event.
+This page was created to help partcipants obtained the expected computer programming knowlege before the event.
 
 ### Installing the Anaconda Python Distribution
 
 To install (not required) the Anaconda Python distribution on your local platform, follow the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
-#### Get Started
+#### Self-Taught Courses
 
 | Lecture Topic | Interactive Link |
 |---|---|
-| **Introduction to Jupyter Notebook**  | Coming... |
+| **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 
 #### Introduction to Python
