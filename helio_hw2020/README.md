@@ -8,6 +8,8 @@ To install (not required) the Anaconda Python distribution on your local platfor
 
 #### Self-Taught Courses
 
+To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory.
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
