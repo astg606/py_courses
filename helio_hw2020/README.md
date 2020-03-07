@@ -2,20 +2,22 @@
 
 This page was created to help partcipants obtained the expected computer programming knowlege before the event.
 
-### Installing the Anaconda Python Distribution
+## Installing the Anaconda Python Distribution
 
 To install (not required) the Anaconda Python distribution on your local platform, follow the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
-#### Self-Taught Courses
+## Self-Taught Courses
 
 To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory.
+
+### Starting Point
 
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 
-#### Introduction to Python
+### Introduction to Python
 
 | Lecture Topic | Interactive Link | 
 |---|---|
@@ -27,7 +29,8 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | 
 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | 
 
-#### Initial Topics in Data Science
+### Data Science
+#### Background Knowledge
 
 | Lecture Topic | Interactive Link | 
 |---|---|
