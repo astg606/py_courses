@@ -1,6 +1,6 @@
-# Helio Hackweek 2020
+# Helio HackWeek 2020
 
-This page was created to help partcipants obtained the expected computer programming knowlege before the event.
+This page was created to help partcipants obtained the expected computer programming knowledge before the event.
 
 ## [Installing the Anaconda Python Distribution](#)
 
@@ -17,7 +17,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 
-### [Introduction to Python](!)
+### <span style="color: red">Introduction to Python</span>
 
 | Lecture Topic | Interactive Link | 
 |---|---|
@@ -29,7 +29,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | 
 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | 
 
-### [Data Science](!)
+### <span style="color: red">Data Science</span>
 #### Background Knowledge
 
 | Lecture Topic | Interactive Link | 
