@@ -10,7 +10,7 @@ To install (not required) the Anaconda Python distribution on your local platfor
 
 To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory.
 
-### [Starting Point](!)
+### <span style="color: red">Starting Point</span>
 
 | Lecture Topic | Interactive Link |
 |---|---|
