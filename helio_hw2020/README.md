@@ -21,6 +21,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 
 | Lecture Topic | Interactive Link | 
 |---|---|
+| **Running Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |
 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |
 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) | 
 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) | 
