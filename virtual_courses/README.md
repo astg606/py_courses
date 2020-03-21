@@ -37,7 +37,7 @@ To have the complete list of courses and their descriptions, please visit the
 
 | Lecture Topic | Interactive Link |
 |---|---|
-| *Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
+| **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 | **Exploratory Data Analysis with Pandas** | |
 <!---
 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
@@ -52,18 +52,21 @@ To have the complete list of courses and their descriptions, please visit the
 
 
 #### <span style="color: red">Week of April 6th?</span>
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to OOP with Python** | |
 | **Python Decorators** | |
 
 #### <span style="color: red">Week of April 13th?</span>
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Command Line Interface with Click** | |
 | **Configuration File Parser (ConfigParser)** | |
 
 #### <span style="color: red">Week of April 20th?</span>
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Basic Concepts of Marchine Learning** | |
