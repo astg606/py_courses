@@ -1,16 +1,24 @@
 # Virtual Python Courses
 
-This page was created to help partcipants obtained the expected computer programming knowledge before the event.
+This page was created for the virtual Python classes. 
+To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory. Each course will be taught through the Google cloud based Jupyter notebook. We assume that partcipants have the basic foundations (data types, conditional statements, loops, functions, modules, IO on text files) and are comfortable using a web browser.
 
-## [Installing the Anaconda Python Distribution](#)
+### [Important Information](#)
+- Do not forget to mute your microphone.
+- The classes are meant to be interactive. 
+- We hope that we will run the Python codes together. 
+- At the end of class, do not forget to save your copy of the materials either in your Google Drive or your local platform.
+- Do not hesitate to ask questions at any time.
 
-To install (not required) the Anaconda Python distribution on your local platform, follow the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
-
-## [Self-Taught Courses](#)
-
-To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory.
+### [Installing the Anaconda Python Distribution](#)
+It is not required to have a Python distribution installed on your local machine. 
+However, we believe that it is important to have one in order to write and run your Python
+applications. We recommend that you install 
+the Anaconda Python distribution by following the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
 ### <span style="color: red">Starting Point</span>
+
+In case you want to have basic foundations on Jupyter Notebook and Git, take the self-taught tutorials below.
 
 | Lecture Topic | Interactive Link |
 |---|---|
