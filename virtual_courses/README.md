@@ -2,6 +2,8 @@
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg)
 
+![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
+
 This page was created for the virtual Python classes. 
 To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory. Each course will be taught through the Google cloud based Jupyter notebook. We assume that partcipants have the basic foundations (data types, conditional statements, loops, functions, modules, IO on text files) and are comfortable using a web browser.
 
