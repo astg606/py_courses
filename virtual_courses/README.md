@@ -12,7 +12,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 
 ### [Installing the Anaconda Python Distribution](#)
 It is not required to have a Python distribution installed on your local machine. 
-However, we believe that it is important to have one in order to write and run your Python
+However, we believe that it is important to have one in order to write and run your own Python
 applications. We recommend that you install 
 the Anaconda Python distribution by following the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
@@ -47,7 +47,7 @@ Exploratory Data Analysis (EDA) is the process of preparing your data for modeli
 
 ### <span style="color: red">Serialization and Deserialization with Python</span>
 
-Serialization is a process of converting an object into a sequence of bytes which can be persisted to a disk or database or can be sent through streams. The reverse process of creating object from sequence of bytes is called deserialization. In this presentation, we will show how we can serialize/deserialize objects using the Python modules Pickle and Json. We will also explain the context in which each of the modules needs to used to perform serialization and deserialization.
+Serialization is a process of converting an object into a sequence of bytes which can be persisted to a disk or database or can be sent through streams. The reverse process of creating object from sequence of bytes is called deserialization. In this presentation, we will show how we can serialize/deserialize objects using the Python modules **Pickle** and **Json**. We will also explain the context in which each of the modules needs to used to perform serialization and deserialization.
 
 **Prerequisites**: Python programming
 
@@ -57,7 +57,7 @@ Serialization is a process of converting an object into a sequence of bytes whic
 
 ### <span style="color: red">Accessing Web Resources with Python</span>
 
-In this presentation, we use the Python packages Requests and Beautiful Soup in order to access and manipulate data from web pages. The Requests module lets you integrate your Python programs with web services, while the Beautiful Soup module is designed for pulling data out of HTML and XML files.. We will explain how to access a web page, read and collect data and work with the textual information available there.
+In this presentation, we use the Python packages **Requests** and **Beautiful Soup** in order to access and manipulate data from web pages. The **Requests** module lets you integrate your Python programs with web services, while the **Beautiful Soup** module is designed for pulling data out of HTML and XML files.. We will explain how to access a web page, read and collect data and work with the textual information available there.
 
 **Prerequisites**: Python programming and basic HTML syntax
 
