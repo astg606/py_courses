@@ -39,6 +39,8 @@ To have the complete list of courses and their descriptions, please visit the
 |---|---|
 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 | **Exploratory Data Analysis with Pandas** | |
+
+
 <!---
 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
 --->
