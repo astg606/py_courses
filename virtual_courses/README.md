@@ -35,40 +35,19 @@ To have the complete list of courses and their descriptions, please visit the
 
 #### <span style="color: red">Week of March 23rd</span>
 
-| Lecture Topic | Interactive Link |
-|---|---|
-| **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
-| **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
-
-#### <span style="color: red">Week of March 30th</span>
-
-| Lecture Topic | Interactive Link |
-|---|---|
-| **Serialization and Deserialization with Python** | |
-| **Accessing Web Resources with Python** | |
-
-#### <span style="color: red">Week of April 6th?</span>
-
-| Lecture Topic | Interactive Link |
-|---|---|
-| **Basic Concepts of Marchine Learning** | |
-| **Basic Modeling with Scikit-Learn** | |
-| **Basic Modeling with TensorFlow** | |
-
-
-#### <span style="color: red">Week of April 13th?</span>
-
-| Lecture Topic | Interactive Link |
-|---|---|
-| **Introduction to OOP with Python** | |
-| **Python Decorators** | |
-
-#### <span style="color: red">Week of April 20th?</span>
-
-| Lecture Topic | Interactive Link |
-|---|---|
-| **Command Line Interface with Click** | |
-| **Configuration File Parser (ConfigParser)** | |
+| Date | Lecture Topic | Interactive Link |
+| :--- | :--- | :--- |
+| March 24 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
+| March 26 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
+| March 31 | **Serialization and Deserialization with Python** | |
+| April 02 | **Accessing Web Resources with Python** | |
+| April 07 | **Basic Concepts of Marchine Learning** | |
+|          | **Basic Machine Learning Modeling with Scikit-Learn** | |
+| April 09 | **Basic Machine Learning Modeling with TensorFlow** | |
+| April 14 | **Introduction to OOP with Python** | |
+| April 16 | **Python Decorators** | |
+| April 21 | **Command Line Interface with Click** | |
+| April 23 | **Configuration File Parser (ConfigParser)** | |
 
 
 
