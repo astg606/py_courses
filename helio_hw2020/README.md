@@ -1,6 +1,7 @@
 # Helio HackWeek 2020
 
-This page was created to help partcipants obtained the expected computer programming knowledge before the event.
+This page was created to help participants obtain the expected computer programming knowledge before the event.
+These training modules will help participants prepare for the hackweek.
 
 ## [Installing the Anaconda Python Distribution](#)
 
