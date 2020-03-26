@@ -36,7 +36,7 @@ To have the complete list of courses and their descriptions, please visit the
 | Date | Lecture Topic | Interactive Link |
 | :--- | :---: | ---: |
 | March 24 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
-| March 26 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
+| March 26 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb) |
 | March 31 | **Serialization and Deserialization with Python** | |
 | April 02 | **Accessing Web Resources with Python** | |
 | April 07 | **Basic Concepts of Marchine Learning** | |
