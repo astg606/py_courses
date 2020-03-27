@@ -37,7 +37,7 @@ To have the complete list of courses and their descriptions, please visit the
 | :--- | :---: | ---: |
 | March 24 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 | March 26 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb) |
-| March 31 | **Serialization and Deserialization with Python** | |
+| March 31 | **Serialization and Deserialization with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/pickle_json.ipynb) |
 | April 02 | **Accessing Web Resources with Python** | |
 | April 07 | **Basic Concepts of Marchine Learning** | |
 |          | **Basic Machine Learning Modeling with Scikit-Learn** | |
@@ -48,6 +48,9 @@ To have the complete list of courses and their descriptions, please visit the
 | April 23 | **Configuration File Parser (ConfigParser)** | |
 
 
+<!---
+| April 02 | **Accessing Web Resources with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |
+--->
 
 
 <!---
