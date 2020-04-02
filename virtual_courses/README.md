@@ -37,9 +37,6 @@ To have the complete list of courses and their descriptions, please visit the
 - After taking each  the courses below, we will appreciate if you could fill out the <a href="https://www.surveymonkey.com/r/DKLWR3S">SURVEY</a> (takes about 5 minutes).
 ```
 
-<p>
-<p>
-
 
 | Date | Lecture Topic | Interactive Link |
 | :--- | :---: | ---: |
