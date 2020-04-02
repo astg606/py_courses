@@ -33,6 +33,11 @@ In case you want to have basic foundations on Jupyter Notebook and Git, take the
 To have the complete list of courses and their descriptions, please visit the 
 <a href="https://www.nccs.nasa.gov/nccs-users/user-events/python-classes">ASTG (Code 606) training webpage. </a>
 
+```diff
+- After taking each  the courses below, we will appreciate if you could fill out
+the <a href="https://www.surveymonkey.com/r/DKLWR3S">SURVEY</a> (takes about 5 minutes).
+```
+
 | Date | Lecture Topic | Interactive Link |
 | :--- | :---: | ---: |
 | March 24 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
