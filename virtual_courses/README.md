@@ -34,9 +34,9 @@ To have the complete list of courses and their descriptions, please visit the
 <a href="https://www.nccs.nasa.gov/nccs-users/user-events/python-classes">ASTG (Code 606) training webpage. </a>
 
 ```html
-<font color="red">
+<span style="color:red;">
  After taking each  the courses below, we will appreciate if you could fill out the <a href="https://www.surveymonkey.com/r/DKLWR3S">SURVEY</a> (takes about 5 minutes).
-</font>
+</span>
 ```
 
 
