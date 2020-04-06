@@ -42,7 +42,7 @@ To have the complete list of courses and their descriptions, please visit the
 | March 26 | **Exploratory Data Analysis with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb) |
 | March 31 | **Serialization and Deserialization with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/pickle_json.ipynb) |
 | April 02 | **Accessing Web Resources with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |
-| April 07 | **Basic Concepts of Marchine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
+| April 07 | **Basic Concepts of Machine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
 |          | **Basic Machine Learning Modeling with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) |
 | April 09 | **Basic Machine Learning Modeling with TensorFlow** | |
 | April 14 | **Introduction to OOP with Python** | |
