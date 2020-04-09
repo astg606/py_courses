@@ -44,7 +44,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 02 | **Accessing Web Resources with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |
 | April 07 | **Basic Concepts of Machine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
 |          | **Basic Machine Learning Modeling with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) |
-| April 09 | **Basic Machine Learning Modeling with TensorFlow** | |
+| April 09 | **Basic Machine Learning Modeling with TensorFlow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb) |
 | April 14 | **Introduction to OOP with Python** | |
 | April 16 | **Python Decorators** | |
 | April 21 | **Command Line Interface with Click** | |
@@ -53,6 +53,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 30 | **Optimizing Your Python Application** | |
 | May 5    | **Introduction to Numba** | |
 | May 7    | **Datetime Module** | |
+| May 12    | **Introduction to Version Control with Git** | |
 
 
 <!---
