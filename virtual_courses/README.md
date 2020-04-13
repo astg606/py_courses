@@ -20,12 +20,11 @@ the Anaconda Python distribution by following the instructions at: [Anconda inst
 
 ### [Starting Point](#)
 
-In case you want to have basic foundations on Jupyter Notebook and Git, take the self-taught tutorials below.
+In case you want to have basic foundations on Jupyter Notebook, take the self-taught tutorials below.
 
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
-| **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 | **Running Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |
 
 ### [Classes](#)
@@ -45,7 +44,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 07 | **Basic Concepts of Machine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_general_concepts.ipynb) |
 |          | **Basic Machine Learning Modeling with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) |
 | April 09 | **Basic Machine Learning Modeling with TensorFlow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb) |
-| April 14 | **Introduction to OOP with Python** | |
+| April 14 | **Introduction to OOP with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb) |
 | April 16 | **Python Decorators** | |
 | April 21 | **Command Line Interface with Click** | |
 | April 23 | **Configuration File Parser (ConfigParser)** | |
@@ -57,6 +56,7 @@ To have the complete list of courses and their descriptions, please visit the
 
 
 <!---
+| May 12 | **Introduction to Version Control with Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 --->
 
 
