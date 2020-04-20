@@ -46,7 +46,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 09 | **Basic Machine Learning Modeling with TensorFlow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb) |
 | April 14 | **Introduction to OOP with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb) |
 | April 16 | **Python Decorators** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/decorators/introduction_decorators.ipynb) |
-| April 21 | **Command Line Interface with Click** | |
+| April 21 | **Command Line Interface with Click** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/passing_parameters/introduction_click.ipynb) |
 | April 23 | **Configuration File Parser (ConfigParser)** | |
 | April 28 | **List Comprehension** | |
 | April 30 | **Optimizing Your Python Application** | |
