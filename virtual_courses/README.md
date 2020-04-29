@@ -18,6 +18,9 @@ However, we believe that it is important to have one in order to write and run y
 applications. We recommend that you install 
 the Anaconda Python distribution by following the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
+### [Installing Git](#)
+To install Git on your local machine, follow the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 ### [Starting Point](#)
 
 In case you want to have basic foundations on Jupyter Notebook, take the self-taught tutorials below.
@@ -49,7 +52,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 21 | **Command Line Interface with Click** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/passing_parameters/introduction_click.ipynb) |
 | April 23 | **Configuration File Parser (ConfigParser)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/passing_parameters/introduction_configparser.ipynb) |
 | April 28 | **List Comprehension** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/code_optimization/introduction_list_comprehensions.ipynb) |
-| April 30 | **Optimizing Your Python Application** | |
+| April 30 | **Optimizing Your Python Application** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/code_optimization/code_optimization_techniques.ipynb) |
 | May 5    | **Introduction to Numba** | |
 | May 7    | **Datetime Module** | |
 | May 12    | **Introduction to Version Control with Git** | |
