@@ -2,7 +2,14 @@
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
 
-This course introduces the fundamental concepts of the Python programming language. In additio, it presents Python packages used for data manipulation and visualization.
+<a href="https://datascience.berkeley.edu/blog/python-data-science/">Python is a free, a general-purpose, and portable programming language. It is easy to use with its simple syntax and readability, which makes the code easy to understand and maintain.</a> 
+Python can be extended via libraries that can be used to tackle problems in machine learning, data analysis, and beyond. It has a vast ecosystem and a dynamic user's community that make Python accessible to everyone.
+
+According to <a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia</a>, **data science** is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science.
+Because of its features, Python is one of the preferred programming languages that data scientists can use to explore and analyze their datasets.
+The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in data science</a> has gone hand in hand with that of Pandas, External link  which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
+
+This course introduces the fundamental concepts of the Python programming language. In additio, it presents Python packages (Numpy, Matplotlib, Seaborn and Pandas) used for data manipulation and visualization. This course provides the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
 ### Objectives
 You will learn the following topics:
@@ -33,12 +40,21 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 
 ### <span style="color: red">Starting Point</span>
 
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 
 ### <span style="color: red">Introduction to Python</span>
+
+If you have never been exposed to Python, you need to take this Introduction to Python course.  In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
+
+<center>
+<a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
+</center>
+
+If you score at least 80% then only take the **I/O on Text Files** topic. Otherwise, take the entire course.
 
 | Lecture Topic | Interactive Link | 
 |---|---|
