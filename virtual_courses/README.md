@@ -53,7 +53,7 @@ To have the complete list of courses and their descriptions, please visit the
 | April 23 | **Configuration File Parser (ConfigParser)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/passing_parameters/introduction_configparser.ipynb) |
 | April 28 | **List Comprehension** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/code_optimization/introduction_list_comprehensions.ipynb) |
 | April 30 | **Optimizing Your Python Application** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/code_optimization/code_optimization_techniques.ipynb) |
-| May 5    | **Introduction to Numba** | |
+| May 5    | **Introduction to Numba** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numba/introduction_numba.ipynb) |
 | May 7    | **Datetime Module** | |
 | May 12    | **Introduction to Version Control with Git** | |
 
