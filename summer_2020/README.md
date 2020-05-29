@@ -43,9 +43,10 @@ To take this course, you are expected to:
 Regardless of their level of proficiency in Python, all interns are expected to take the classes on **Jupyter Notebook** and **Introduction to Git**.
 
 | Date | Lecture Topic | Interactive Link |
-|---|---| --- |
+|---|---|---|
 | June 10 | **Introduction to Jupyter Notebook**  |  |
-| June 10 | **Introduction to Git**  |   |
+|  | **Introduction to Git**  |   |
+
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
 | June 10 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
@@ -73,6 +74,7 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 | | **Modules** | |
 | June 17 | **Datetime Module** | |
 | | **I/O on Text Files** | |
+
 <!---
 | **Running Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |
 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |
@@ -94,6 +96,7 @@ This section is more for interns who will have a Data Science relared project.
 |         | **Basic Visualization with Matplotlib** | |
 | June 22 | **Introduction to Seaborn**  |  | 
 |         | **Introduction to Pandas** | |
+
 <!---
 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |
 | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) |
