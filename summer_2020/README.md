@@ -33,7 +33,7 @@ To take this course, you are expected to:
 - Have a [Github](github.com) account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
 - Install on your local machine the Anaconda Python Distribution. It is not required but it is highly recommended if you plan to write Python code for your project.
- We recommend that you install the Anaconda Python distribution by following the instructions at: [Anconda installation Guide](https://docs.continuum.io/anaconda/install/)
+ We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
 - Install Git on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). This is not required but highly recommended.
 
 **Classes will take place on Mondays, Wednesdays and Fridays from 8:30 am to 12:00 pm.**
@@ -54,14 +54,17 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 ### <span style="color: red">Introduction to Python</span>
 
-If you have never been exposed to Python, you need to take this Introduction to Python course.  
-In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
+If you have never been exposed to Python, you need to take this Introduction to Python course. In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
 <center>
 <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 </center>
 
+**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python class.</span>**
+
 If you score at least 80% then only take the **Datetime** and **I/O on Text Files** topics. Otherwise, take the entire course.
+
+
 
 | Date | Lecture Topic | Interactive Link | 
 |---|---|---|
