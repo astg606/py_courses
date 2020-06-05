@@ -91,7 +91,7 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 --->
 ### <span style="color: red">Data Science Tools</span>
 
-This section is more for interns who will have a Data Science relared project.
+This section is more for interns who will have a Data Science related project.
 
 | Date |  Lecture Topic | Interactive Link | 
 |---|---|---|
