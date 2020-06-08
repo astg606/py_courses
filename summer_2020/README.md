@@ -12,6 +12,12 @@ The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">grow
 
 This course introduces the fundamental concepts of the Python programming language. In addition, it presents Python packages (Numpy, Matplotlib, Seaborn and Pandas) used for data manipulation and visualization. This course provides the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
+The instructors are:
+
+- Carlos Cruz (carlos.a.cruz@nasa.gov)
+- Bruce Van Aartsen (bruce.vanaartsen@nasa.gov)
+- Jules Kouatchou (jules.kouatchou@nasa.gov)
+
 ### Objectives
 You will learn the following topics:
 
@@ -60,7 +66,7 @@ If you have never been exposed to Python, you need to take this Introduction to 
 <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 </center>
 
-**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python class.</span>**
+**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python class.</span>** If you have any issue with the test, please contact Jules (jules.kouatchou@nasa.gov).
 
 If you score at least 80% then only take the **Datetime** and **I/O on Text Files** topics. Otherwise, take the entire course.
 
@@ -97,8 +103,8 @@ This section is more for interns who will have a Data Science related project.
 |---|---|---|
 | June 19 | **Introduction to Numpy** | |
 |         | **Basic Visualization with Matplotlib** | |
-| June 22 | **Introduction to Seaborn**  |  | 
-|         | **Introduction to Pandas** | |
+| June 22 | **Introduction to Panda**  |  | 
+|         | **Introduction to Seaborn**  |  | 
 
 <!---
 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |
