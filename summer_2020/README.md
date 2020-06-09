@@ -50,9 +50,9 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-! June 10 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) | Jules |
+| June 10 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) | Jules |
 |  | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) | Jules |
-|  | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">pdf file</a>  | Carlos |
+|  | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">Version Control with Git</a>  | Carlos |
 |  |    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | |
 
 <!---
