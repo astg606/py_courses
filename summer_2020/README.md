@@ -48,10 +48,10 @@ To take this course, you are expected to:
 
 Regardless of their level of proficiency in Python, all interns are expected to take the classes on **Jupyter Notebook** and **Introduction to Git**.
 
-| Date | Lecture Topic | Interactive Link |
-|---|---|---|
-| June 10 | **Introduction to Jupyter Notebook**  |  |
-|  | **Introduction to Git**  |   |
+| Date | Lecture Topic | Interactive Link | Instructor |
+|---|---|---|---|
+| June 10 | **Introduction to Jupyter Notebook**  |  | Jules |
+|  | **Introduction to Git**  |   | Carlos |
 
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
@@ -72,17 +72,17 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 
 
 
-| Date | Lecture Topic | Interactive Link | 
-|---|---|---|
-| June 12 | **Running Python**  | |
-| | **Data Types**  | |
-| | **Conditional Statements**  | |
-| | **Loops** | |
-| June 15 | **Advanced Data Types** | |
-| | **Functions** | |
-| | **Modules** | |
-| June 17 | **Datetime Module** | |
-| | **I/O on Text Files** | |
+| Date | Lecture Topic | Interactive Link | Instructor |
+|---|---|---|---|
+| June 12 | **Running Python**  | | Jules |
+| | **Data Types**  | | Jules |
+| | **Conditional Statements**  | | Carlos |
+| | **Loops** | | Carlos |
+| June 15 | **Advanced Data Types** | | Jules |
+| | **Functions** | | Bruce |
+| | **Modules** | | Bruce |
+| June 17 | **Datetime Module** | | Jules |
+| | **I/O on Text Files** | Bruce |
 
 <!---
 | **Running Python**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |
@@ -99,17 +99,17 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 
 This section is more for interns who will have a Data Science related project.
 
-| Date |  Lecture Topic | Interactive Link | 
-|---|---|---|
-| June 19 | **Introduction to Numpy** | |
-|         | **Basic Visualization with Matplotlib** | |
-| June 22 | **Introduction to Panda**  |  | 
-|         | **Introduction to Seaborn**  |  | 
+| Date |  Lecture Topic | Interactive Link | Instructor |
+|---|---|---|---|
+| June 19 | **Introduction to Numpy** | | Carlos |
+|         | **Basic Visualization with Matplotlib** | | Jules |
+| June 22 | **Introduction to Panda**  |  | Bruce and Jules |
+|         | **Introduction to Seaborn**  |  | Jules |
 
 <!---
 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |
 | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) |
-| **Introduction to Seaborn**  |  | 
+| **Introduction to Seaborn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_seaborn.ipynb) |
 | **Introduction to Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 --->
 
