@@ -50,8 +50,10 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 10 | **Introduction to Jupyter Notebook**  |  | Jules |
-|  | **Introduction to Git**  |   | Carlos |
+! June 10 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) | Jules |
+|  | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) | Jules |
+|  | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">pdf file</a>  | Carlos |
+|  |    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | |
 
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
@@ -74,8 +76,7 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 12 | **Running Python**  | | Jules |
-| | **Data Types**  | | Jules |
+| June 12 | **Data Types**  | | Jules |
 | | **Conditional Statements**  | | Carlos |
 | | **Loops** | | Carlos |
 | June 15 | **Advanced Data Types** | | Jules |
@@ -103,7 +104,7 @@ This section is more for interns who will have a Data Science related project.
 |---|---|---|---|
 | June 19 | **Introduction to Numpy** | | Carlos |
 |         | **Basic Visualization with Matplotlib** | | Jules |
-| June 22 | **Introduction to Panda**  |  | Bruce and Jules |
+| June 22 | **Introduction to Pandas**  |  | Bruce and Jules |
 |         | **Introduction to Seaborn**  |  | Jules |
 
 <!---
