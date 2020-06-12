@@ -76,9 +76,9 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 12 | **Data Types**  | | Jules |
-| | **Conditional Statements**  | | Carlos |
-| | **Loops** | | Carlos |
+| June 12 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) | Jules |
+| | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) | Carlos |
+| | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) | Carlos |
 | June 15 | **Advanced Data Types** | | Jules |
 | | **Functions** | | Bruce |
 | | **Modules** | | Bruce |
