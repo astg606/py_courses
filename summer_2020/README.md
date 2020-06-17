@@ -82,8 +82,8 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 | June 15 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
 | | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) | Bruce |
 | | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Bruce |
-| June 17 | **Datetime Module** | | Jules |
-| | **I/O on Text Files** | | Bruce |
+| June 17 | **Datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/useful_modules/introduction_datetime.ipynb) | Jules |
+| | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
 
 <!---
 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |
