@@ -98,8 +98,8 @@ This section is more for interns who will have a Data Science related project.
 
 | Date |  Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 19 | **Introduction to Numpy** | | Carlos |
-|         | **Basic Visualization with Matplotlib** | | Jules |
+| June 19 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) | Carlos |
+|         | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) | Jules |
 | June 22 | **Introduction to Pandas**  |  | Bruce and Jules |
 |         | **Introduction to Seaborn**  |  | Jules |
 
