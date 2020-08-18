@@ -55,6 +55,13 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | **Regression with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) |
 | **Regression with Tensorflow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb) |
 
+The materials used here were prepared by:
+
+* Carlos Cruz
+* Jules Kouatchou
+* Brent Smith
+* Bruce Van Aartsen
+
 <!---
 | **Surpervised Learning with Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_surpervised_parallelization.ipynb) |
 | 17:15-17:30 | **Feedback Session** |  |  |
