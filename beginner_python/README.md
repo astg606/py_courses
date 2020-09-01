@@ -1,8 +1,6 @@
-<center>
 | . | . |
 | - | - |
 | ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
-</center>
 
 ## An Accelerated One-Day Beginner Python Class for Programmers
 
