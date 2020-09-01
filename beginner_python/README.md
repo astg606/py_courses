@@ -1,3 +1,9 @@
+<center>
+| . | . |
+| - | - |
+| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
+</center>
+
 ## An Accelerated One-Day Beginner Python Class for Programmers
 
 This accelerated course is designed for participants who quickly want to learn the basic concepts of the Python language and be able to use Python related tools for their work. We will cover the following topics: data types, conditional statements, loops, functions, modules, Datetime module, and basic IO with text file.
@@ -19,17 +25,17 @@ To take this course, you are expected to:
 
 | Time | Lecture Topic | Interactive Link | Instructor |
 |------|---------------|------------------|----------|
-| 08:30-09:00 | **Basic Setups and Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/welcome.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/introduction_python.ipynb) | Jules |
+| 08:30-09:00 | **Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/introduction_python.ipynb) | Jules |
 | 09:00-10:00 | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) | Carlos |
-| 10:00-10:15 | Break |  |  |
-| 10:15-11:35 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) | Carlos |
-| 10:35-11:15 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) | Carlos |
-| 11:15-12:15 | **Advanced Data Structures** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
+| 10:00-10:10 | Break |  |  |
+| 10:10-10:45 | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) | Carlos |
+| 10:45-11:25 | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) | Carlos |
+| 11:25-12:15 | **Advanced Data Structures** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
 | 12:15-12:45 | Lunch Break |  |  |
 | 12:45-13:35 | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) | Bruce |
 | 13:35-14:25 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Bruce |
 | 14:25-14:35 | Break |  |  |
-| 14:35-15:35 | **The Datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/datetime/datetime_matplotlib.ipynb) | Jules |
+| 14:35-15:35 | **The Datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/datetime/introduction_datetime.ipynb) | Jules |
 | 15:35-15:45 | Break |  |  |
 | 15:45-16:45 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
 | 16:45-17:00 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
