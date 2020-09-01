@@ -16,8 +16,8 @@ To take this course, you are expected to:
 - Install Git (not required though desirable) on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 | Lecture Topic | Interactive Link | Instructor |
-|---|---|---|---|
-|  **Introduction to Version Control with Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">Version Control with Git</a>  | Jules |
+|---|---|---|
+|  **Introduction to Version Control with Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb)  | Jules |
 
 
 <!---
