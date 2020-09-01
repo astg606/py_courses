@@ -2,7 +2,7 @@
 | - | - |
 | ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
 
-## An Accelerated One-Day Beginner Python Class for Programmers
+## Python Beginner Course for Programmers
 
 This accelerated course is designed for participants who quickly want to learn the basic concepts of the Python language and be able to use Python related tools for their work. We will cover the following topics: data types, conditional statements, loops, functions, modules, Datetime module, and basic IO with text file.
 
