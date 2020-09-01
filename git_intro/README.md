@@ -1,7 +1,8 @@
+| . | . |
+| - | - |
+| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
+
 # Introduction to Version Control with Git
-
-![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
-
 
 Version control is a system that allows you to keep track of changes made to your code over time. It is useful for reverting back to specific versions of your code, and for collaborating on the same work with contributors. Git is a popular distributed version control system. In this lecture, we will have a quick introduction of version control and will present the features of Git. Through examples, we will learn how to create a local Git repository. Finally, we will create remote repositories in GitHub.com and do some operations (clone, stage, commit, push, pull, etc.).
 
