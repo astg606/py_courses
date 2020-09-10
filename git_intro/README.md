@@ -19,6 +19,8 @@ To take this course, you are expected to:
 | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|
 |  **Introduction to Version Control with Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb)  | Jules |
+| **Feedback** |  <a href="https://www.surveymonkey.com/r/223CBKZ"> Evaluation Survey </a> | |
+
 
 
 <!---

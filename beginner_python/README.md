@@ -36,7 +36,7 @@ To take this course, you are expected to:
 | 14:35-15:35 | **The Datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/datetime/introduction_datetime.ipynb) | Jules |
 | 15:35-15:45 | Break |  |  |
 | 15:45-16:45 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
-| 16:45-17:00 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/PWQVXH5"> Evaluation Survey </a> | |
+| 16:45-17:00 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/223CBKZ"> Evaluation Survey </a> | |
 
 
 At the end of this course, we recommend that you take the following Python assessment test
