@@ -12,11 +12,11 @@ This accelerated course is designed for participants who quickly want to learn t
 To take this course, you are expected to:
 
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
-- Have a [Github](github.com) account. Github is a web-based collaborative
-  tool to discover, share and build software. You might need to share what you do with your mentor.
 - Install on your local machine the Anaconda Python Distribution. It is not required but it is highly recommended.
  We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
+You might find it useful to learn little more about Jupyter notebook: 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb)
 
 ### AGENDA
 
