@@ -1,6 +1,6 @@
 | . | . | . |
 | - | - | - |
-| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | <img src="https://i.pcmag.com/imagery/articles/04Lt2bhUYZ9Z35RA6lAPAMa-1.fit_scale.size_850x478.v1591613569.jpg"  width="250" /> |
+| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | <img src="https://github.com/astg606/py_courses/blob/master/rapids/NVLogo_H_2160x1080.png"  width="250" /> |
 
 # Accelerating Data Science Workflows with RAPIDS
 
