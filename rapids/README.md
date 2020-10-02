@@ -1,6 +1,6 @@
 | . | . | . |
 | - | - | - |
-| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | <a href="https://eyedohistory.files.wordpress.com/2016/03/nvidialogo.jpg"><img src="https://eyedohistory.files.wordpress.com/2016/03/nvidialogo.jpg" width="275"> </a> |
+| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | ![NVIDIA](https://eyedohistory.files.wordpress.com/2016/03/nvidialogo.jpg) |
 
 # Accelerating Data Science Workflows with RAPIDS
 
