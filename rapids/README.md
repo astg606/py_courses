@@ -1,6 +1,6 @@
 | . | . | . |
 | - | - | - |
-| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | ![NVIDIA](https://i.pcmag.com/imagery/articles/04Lt2bhUYZ9Z35RA6lAPAMa-1.fit_scale.size_850x478.v1591613569.jpg | width=50) |
+| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) | ![NVIDIA](https://i.pcmag.com/imagery/articles/04Lt2bhUYZ9Z35RA6lAPAMa-1.fit_scale.size_850x478.v1591613569.jpg) <!-- .element height="50%" width="50%" --> |
 
 # Accelerating Data Science Workflows with RAPIDS
 
@@ -27,17 +27,17 @@ You might find it useful:
 
 ## AGENDA
 
-[] **10:00-10:15 [Welcome and Cluster Setup](#)**
-[] **10:15-11:00 [Introduction to GPU Computing and RAPIDS
+- **10:00-10:15 [Welcome and Cluster Setup](#)**
+- **10:15-11:00 [Introduction to GPU Computing and RAPIDS
      - How to build and execute end-to-end GPU-accelerated data science workflows
-[] **11:00-12:00 [Introduction to cuDF](#)**
+- **11:00-12:00 [Introduction to cuDF](#)**
      - Hands-on: Implement GPU-accelerated data preparation and feature extraction using cuDF
-[] **12:00-13:00 [Lunch break](#)**
+- **12:00-13:00 [Lunch break](#)**
 - **13:00-14:00 [Introduction to cuML](#)**
      - Hands-on: Implement GPU-accelerated machine learning algorithms such as Linear Regression and UMAP using cuML
-[] **14:00-14:30 [Introduction to Dask](#)**
+- **14:00-14:30 [Introduction to Dask](#)**
      - Overview of Dask [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/dask/overview_dask.ipynb)
-[] **14:30-15:00 [Dask + GPUs](#)**
+- **14:30-15:00 [Dask + GPUs](#)**
      - Demo on how to distribute data and computation over multiple GPUs
 
 
