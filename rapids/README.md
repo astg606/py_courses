@@ -28,7 +28,7 @@ You might find it useful:
 ## AGENDA
 
 - **10:00-10:15 [Welcome and Cluster Setup](#)**
-- **10:15-11:00 [Introduction to GPU Computing and RAPIDS
+- **10:15-11:00 [Introduction to GPU Computing and RAPIDS](#)**
      - How to build and execute end-to-end GPU-accelerated data science workflows
 - **11:00-12:00 [Introduction to cuDF](#)**
      - Hands-on: Implement GPU-accelerated data preparation and feature extraction using cuDF
