@@ -6,7 +6,7 @@
 
 **Date:** November 5, 2020
 
-**Time:** 10:00am - 3:00pm
+**Time:** 11:00-16:00 (**note the time change**)
 
 Data science workflow has traditionally been slow and cumbersome when it came to loading, filtering and manipulating data, as well as ML training itself. These processes were constrained to slow, CPU-based compute, and resulted in lengthy cycle times impacting data science productivity. RAPIDS delivers GPU accelerated machine learning and data analytics libraries, deployed on NVIDIA GPU platforms, for maximized data science productivity, performance and insights. Bring the power of GPU acceleration to your research and decrease your time to new discoveries with RAPIDS.
 
@@ -42,17 +42,17 @@ To join by phone:
 
 ## AGENDA
 
-- **10:00-10:15 [Welcome and Cluster Setup](#)**
-- **10:15-11:00 [Introduction to GPU Computing and RAPIDS](#)**
+- **11:00-11:15 [Welcome and Cluster Setup](#)**
+- **11:15-12:00 [Introduction to GPU Computing and RAPIDS](#)**
      - How to build and execute end-to-end GPU-accelerated data science workflows
-- **11:00-12:00 [Introduction to cuDF](#)**
+- **12:00-13:00 [Introduction to cuDF](#)**
      - Hands-on: Implement GPU-accelerated data preparation and feature extraction using cuDF
-- **12:00-13:00 [Lunch break](#)**
-- **13:00-14:00 [Introduction to cuML](#)**
+- **13:00-14:00 [Lunch break](#)**
+- **14:00-15:00 [Introduction to cuML](#)**
      - Hands-on: Implement GPU-accelerated machine learning algorithms such as Linear Regression and UMAP using cuML
-- **14:00-14:30 [Introduction to Dask](#)**
+- **15:00-15:30 [Introduction to Dask](#)**
      - Overview of Dask [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/dask/overview_dask.ipynb)
-- **14:30-15:00 [Dask + GPUs](#)**
+- **15:30-16:00 [Dask + GPUs](#)**
      - Demo on how to distribute data and computation over multiple GPUs
 
 
