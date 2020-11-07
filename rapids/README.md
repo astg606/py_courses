@@ -58,10 +58,13 @@ To join by phone:
 ## Additional Resources on RAPIDS
 
 - <a href="https://rapids.ai/">RAPIDS: Open GPU Data Science</a>
+- <a href="https://docs.rapids.ai/overview">RAPIDS Overview</a>
 - <a href="https://cupy.dev/">CuPy: A NumPy-compatible array library accelerated by CUDA</a>
 - <a href="https://github.com/rapidsai/notebooks">RAPIDS Notebooks</a>
 - <a href="https://github.com/rapidsai/cuml">cuML - GPU Machine Learning Algorithms</a>
 - <a href="https://github.com/rapidsai/dask-cuda">Dask CUDA</a>
+- <a href="https://github.com/rapidsai/jupyterlab-nvdashboard">JupyterLab GPU Dashboards</a>
+- <a href="https://developer.nvidia.com/DALI">NVIDIA Data Loading Library (DALI)</a>
 
 
 <!---
