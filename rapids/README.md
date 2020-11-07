@@ -55,6 +55,13 @@ To join by phone:
 - **15:00-15:30 [Dask + GPUs](#)**
      - Demo on how to distribute data and computation over multiple GPUs
 
+## Additional Resources on RAPIDS
+
+- <a href="https://rapids.ai/">RAPIDS: Open GPU Data Science</a>
+- <a href="https://cupy.dev/">CuPy: A NumPy-compatible array library accelerated by CUDA</a>
+- <a href="https://github.com/rapidsai/notebooks">RAPIDS Notebooks</a>
+- <a href="https://github.com/rapidsai/cuml">cuML - GPU Machine Learning Algorithms</a>
+- <a href="https://github.com/rapidsai/dask-cuda">Dask CUDA</a>
 
 
 <!---
