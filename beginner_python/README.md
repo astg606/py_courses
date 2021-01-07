@@ -20,7 +20,19 @@ You might find it useful to learn little more about Jupyter notebook:
 
 ### AGENDA
 
+| Lecture Topic | Interactive Link | 
+|---|---|
+| **Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/introduction_python.ipynb) |
+| **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |
+| **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |
+| **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |
+| **Advanced Data Structures** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | 
+| **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |
+| **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Bruce |
+| **The Datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/datetime/introduction_datetime.ipynb) | 
+| **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |
 
+<!---
 | Time | Lecture Topic | Interactive Link | Instructor |
 |------|---------------|------------------|----------|
 | 08:30-09:00 | **Launching Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/introduction_python.ipynb) | Jules |
@@ -38,6 +50,7 @@ You might find it useful to learn little more about Jupyter notebook:
 | 15:45-16:45 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Bruce |
 |  | **Overview of I/O on Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_overview.ipynb) |  |
 | 16:45-17:00 | **Feedback Session** |  <a href="https://www.surveymonkey.com/r/223CBKZ"> Evaluation Survey </a> | |
+--->
 
 
 At the end of this course, we recommend that you take the following Python assessment test
