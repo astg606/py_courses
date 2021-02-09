@@ -23,4 +23,5 @@ You might find it useful to learn little more about Jupyter notebook:
 | Lecture Topic | Interactive Link | 
 |---|---|
 | **Object Oriented Programming with Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb) |
-| **Feedback** |  <a href="https://www.surveymonkey.com/r/BW29DG6"> Evaluation Survey </a> | |
+| **Solutions of Exercises** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop_sols.ipynb) |
+| **Feedback** |  <a href="https://www.surveymonkey.com/r/BW29DG6"> Evaluation Survey </a> |
