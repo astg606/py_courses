@@ -1,4 +1,4 @@
-# Data Array Manipulations in Python
+# Data Array Manipulation and Visualizationin Python
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
 
@@ -39,13 +39,11 @@ To install Git on your local machine, follow the installation instructions: [Get
 
 To fully follow all the topics below, you need to have a **gmail** account in order to access Google Colaboratory. Each course will be taught through the Google cloud based Jupyter notebook.
 
-### <span style="color: red">Starting Point</span>
 
-
-### <span style="color: red">Data Science Tools</span>
+### <span style="color: red">Array Manipulation and Visualization Tools</span>
 
 | Lecture Topic | Interactive Link | 
-|---|---|
+|:---|:---|
 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy_new.ipynb) |
 | **Introduction to Pandas** | |
 | **Interactive Data Visualization with HoloViews**  |  | 
