@@ -2,7 +2,7 @@
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
 
-Arrays are the foundation for all <a href="https://datascience.berkeley.edu/blog/python-data-science/">Data Science</a> in Python. Arrays can be multidimensional, and all the entries need to be of the same type (homogenity).
+Data arrays are the foundation for all <a href="https://datascience.berkeley.edu/blog/python-data-science/">Data Science</a> in Python. Arrays can be multidimensional, and all the entries need to be of the same type (homogeneity).
 There are several advantages of using arrays:
 
 - Efficiently handling of very large datasets
@@ -10,11 +10,11 @@ There are several advantages of using arrays:
 - Faster calculations and analysis (compared to lists for instance)
 - Diverse functionality (many functions in Python packages). 
 
-There are many Python packages that help the manipulation and visualization of data
-arrays easier. Here we want to focus on:
+There are many Python packages that make the manipulation and visualization of data
+arrays easier. We intend to focus on:
 
 
-- **NumPy** is the reference packagefor scientific computing in Python. It extends Python with a
+- **NumPy** is the reference package for scientific computing in Python. It extends Python with a
 flexible multidimensional array that allows fast and concise mathematical calculations. NumPy provides common data structures and algorithms designed to express complex
 mathematical operations using a concise syntax.
 - **Pandas** is a tool that relies heavily on NumPy and provides additional data structures and
