@@ -1,5 +1,5 @@
 
-![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) ![quansight](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/129390617_679875916029707_4310716815556376327_o.png?_nc_cat=101&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Xcv4JyCuLGwAX99Rvac&_nc_oc=AQkgnVsMESu8URGvP5QqT_cJwB7mTBoZBucrPs2KGzCPYdQvR5XdDXytzRhqFdCVu8U&_nc_ht=scontent-iad3-1.xx&oh=bd9e7286c3a4f593d667b8f34a68eaa0&oe=60693A2F){:height="25%" width="25%"}
+![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) ![quansight](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/129390617_679875916029707_4310716815556376327_o.png?_nc_cat=101&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Xcv4JyCuLGwAX99Rvac&_nc_oc=AQkgnVsMESu8URGvP5QqT_cJwB7mTBoZBucrPs2KGzCPYdQvR5XdDXytzRhqFdCVu8U&_nc_ht=scontent-iad3-1.xx&oh=bd9e7286c3a4f593d667b8f34a68eaa0&oe=60693A2F){:height="35%" width="35%"}
 
 # HoloViz Training Workshop
 
