@@ -45,7 +45,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | Lecture Topic | Interactive Link | 
 |:---|:---|
 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy_new.ipynb) |
-| **Introduction to Pandas** | |
+| **Introduction to Pandas** | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 | **Interactive Data Visualization with HoloViews**  |  | 
 | **Manipulating Geolocated Data with Xarray**  |  | 
 | **Feedback**  | <a href="https://www.surveymonkey.com/r/BW29DG6"> Evaluation Survey </a> | 
