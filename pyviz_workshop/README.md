@@ -1,5 +1,5 @@
 
-![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) ![quansight](https://avatars.githubusercontent.com/u/34879953?s=200&v=4){:height="35%" width="35%"}
+![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) ![quansight](https://avatars.githubusercontent.com/u/34879953?s=200&v=4){:height="25%" width="30%"}
 
 # HoloViz Training Workshop
 
