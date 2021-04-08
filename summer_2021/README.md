@@ -18,7 +18,7 @@ The instructors are:
 - Bruce Van Aartsen (bruce.vanaartsen@nasa.gov)
 - Jules Kouatchou (jules.kouatchou@nasa.gov)
 
-### Objectives
+## Objectives
 You will learn the following topics:
 
 - Python basic syntax, variables, and types
@@ -45,7 +45,7 @@ To take this course, you are expected to:
 
 **Classes will take place on Mondays, Wednesdays and Fridays from 1:00 am to 4:00 pm (US EST).**
 
-### <span style="color: red">Starting Point</span>
+## <span style="color: red">Starting Point</span>
 
 All the classes will be provided using Jupyter notebooks. We will be explaining the featutues of Jupyter notebooks as we move along. In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb).
 
@@ -61,7 +61,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 | June 10 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |
 --->
 
-### <span style="color: red">Introduction to Python</span>
+## <span style="color: red">Introduction to Python</span>
 
 If you have never been exposed to Python, you need to take this Introduction to Python course. In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
@@ -87,7 +87,7 @@ If you score at least 80% then only take the **Datetime** and **I/O on Text File
 | June 18 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
 |  | **Scripting and Packaging** | |  |
 
-### <span style="color: red">Data Science Tools</span>
+## <span style="color: red">Data Science Tools</span>
 
 This section is more for interns who will have a Data Science related project.
 
@@ -98,6 +98,9 @@ This section is more for interns who will have a Data Science related project.
 | June 23 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
 | June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
+
+## <span style="color: red">Course Evaluation</span>
+
 We will appreciate if you could fill out the following survey:
 
 <center>
@@ -105,7 +108,7 @@ We will appreciate if you could fill out the following survey:
 </center>
 
 
-### <span style="color: red">Additional Resources</span>
+## <span style="color: red">Additional Resources</span>
 
 #### Objected Oriented Programming
 - Introduction to OOP with Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb)
