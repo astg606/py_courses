@@ -116,11 +116,13 @@ We will appreciate if you could fill out the following survey:
 
 #### Earth Science
 - netCDF4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_netcdf4.ipynb) 
-      - Tool for manipulating netCDF file.
+     - Tool for manipulating netCDF file.
 - h5py: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_h5py.ipynb)
-      - Tool for manipulating HDF5 files
+     - Tool for manipulating HDF5 files
 - Cartopy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_cartopy.ipynb)
+     - Tool for geospatial data processing in order to produce maps and other geospatial data analyses.
 - Xarrayi: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb)
+     - Tool for manipulating labelled multi-dimensional arrays. Suitable for manipulating netCDF files.
 
 #### Astronomy
 - [Astropy](https://www.astropy.org/)
