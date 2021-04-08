@@ -101,7 +101,7 @@ This section is more for interns who will have a Data Science related project.
 We will appreciate if you could fill out the following survey:
 
 <center>
-[Course Evaluation](https://forms.gle/mnYy5p2Q55i7EZrX7)
+<a href="https://forms.gle/mnYy5p2Q55i7EZrX7">Course Evaluation</a>
 </center>
 
 
