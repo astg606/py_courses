@@ -96,7 +96,7 @@ This section is more for interns who will have a Data Science related project.
 | June 21 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
 |         | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) |  |
 | June 23 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
-| June 25 | **Web Scraping**  |  |  |
+| June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
 We will appreciate if you could fill out the following survey:
 
@@ -105,7 +105,35 @@ We will appreciate if you could fill out the following survey:
 </center>
 
 
+### <span style="color: red">Additional Resources</span>
 
+#### Objected Oriented Programming
+- Introduction to OOP with Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb)
+
+#### Computing Tools
+- SciPy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/scipy/introduction_scipy.ipynb)
+     - Provide utility functions for optimization, statistics, imahe procession, signal processing, etc.
+
+#### Earth Science
+- netCDF4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_netcdf4.ipynb) 
+      - Tool for manipulating netCDF file.
+- h5py: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_h5py.ipynb)
+      - Tool for manipulating HDF5 files
+- Cartopy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_cartopy.ipynb)
+- Xarrayi: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb)
+
+#### Astronomy
+- [Astropy](https://www.astropy.org/)
+     - Collection of software packages designed for use in astronomy.
+
+#### Solar Physics
+- [Sunpy](https://github.com/sunpy/sunpy)
+     - Python library for Solar Physics data analysis and visualization.
+
+#### Machine Learning
+- Exporatory Data Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb)
+- Basic Machine Learning Modeling with Scikit-Learn: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb)
+- iBasic Machine Learning Modeling with TensorFlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb)
 
 <!---
 | 17:15-17:30 | **Feedback Session** |  |  |
