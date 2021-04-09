@@ -47,7 +47,7 @@ To fully follow all the topics below, you need to have a **gmail** account in or
 | **Introduction to Numpy**  | [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy_new.ipynb) |
 | **Introduction to Pandas** | [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |
 | **Interactive Data Visualization with HoloViews** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_holoviews.ipynb) |
-| **Manipulating Geolocated Data with Xarray**  |  | 
+| **Manipulating Geolocated Data with Xarray**  | [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb) | 
 
 
 
