@@ -24,9 +24,8 @@ You might find it useful:
 | Lecture Topic | Interactive Link |
 |:---|:---|
 | **RAPIDS CuPy, CuDF and CuML**  | [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/rapids/rapids_packages.ipynb) |
-| **Accelerating (Numba) and Scaling (Dask) Python Codes on CPUs** |  |
+| **Accelerating (Numba) and Scaling (Dask) Python Codes on CPUs** | [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/rapids/numba_dask_cpus.ipynb) |
 | **Accelerating (Numba) and Scaling (Dask) Python Codes on GPUs** |  |
-
 
 ## Additional Resources on RAPIDS
 
