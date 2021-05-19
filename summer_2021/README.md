@@ -58,7 +58,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 11 | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">Version Control with Git</a>  |  |
+| June 10 | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">Version Control with Git</a>  |  |
 |  |    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | |
 
 <!---
