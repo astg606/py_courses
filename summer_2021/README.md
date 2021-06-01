@@ -131,7 +131,7 @@ For those who want to know more about the wealth of Python resources and discipl
      - Tool for manipulating HDF5 files
 - Cartopy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_cartopy.ipynb)
      - Tool for geospatial data processing in order to produce maps and other geospatial data analyses.
-- Xarrayi: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb)
+- Xarray: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb)
      - Tool for manipulating labelled multi-dimensional arrays. Suitable for manipulating netCDF files.
 
 #### Astronomy
