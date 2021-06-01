@@ -141,6 +141,15 @@ For those who want to know more about the wealth of Python resources and discipl
 #### Solar Physics
 - [Sunpy](https://github.com/sunpy/sunpy)
      - Python library for Solar Physics data analysis and visualization.
+- [pysat](https://pysat.readthedocs.io/en/latest/)
+     - The Python Satellite Data Analysis Toolkit (pysat) simplifies the process of using new instruments, reduces data management overhead, and enables the creation of instrument independent analysis routines.
+- [HelioPy](https://docs.heliopy.org/en/stable/)
+     - Set of tools for heliopsheric and planetary physics.
+- [PlasmaPy](https://www.plasmapy.org/)
+     - Python package that provides common functionality required for plasma physics in a single, reliable codebase.
+- [SpacePy](https://spacepy.github.io/)
+     - Python package for data analysis, modeling and visualization in space sciences.
+
 
 #### Machine Learning
 - Exporatory Data Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb)
