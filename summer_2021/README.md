@@ -154,7 +154,7 @@ For those who want to know more about the wealth of Python resources and discipl
 #### Machine Learning
 - Exporatory Data Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb)
 - Basic Machine Learning Modeling with Scikit-Learn: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb)
-- iBasic Machine Learning Modeling with TensorFlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb)
+- Basic Machine Learning Modeling with TensorFlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb)
 
 <!---
 | 17:15-17:30 | **Feedback Session** |  |  |
