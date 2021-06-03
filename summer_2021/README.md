@@ -58,8 +58,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 10 | **Introduction to Git**  | <a href="https://github.com/astg606/py_materials/blob/master/git_tutorial/version_control_git.pdf">Version Control with Git</a>  |  |
-|  |    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | |
+| June 10 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | Carlos |
 
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
@@ -74,6 +73,11 @@ If you have never been exposed to Python, you need to take this Introduction to 
 <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 </center>
 
+<P>
+</P>
+<P>
+</P>
+
 **<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python sessions.</span>** If you have any issue with the test, please contact Jules (jules.kouatchou@nasa.gov).
 
 If you score at least 80% then only take the **Scri[ting and Packaging** topic. Otherwise, take all the Introduction to Python sessions.
@@ -82,15 +86,15 @@ If you score at least 80% then only take the **Scri[ting and Packaging** topic. 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 14 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
-|  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |  |
-| | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
-| | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |  |
-| June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
-| | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
-| | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
-| June 18 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
-|  | **Scripting and Packaging** | |  |
+| June 14 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) | Jules |
+|  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |  Jules |
+| | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) | Bruce |
+| | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |  Jules |
+| June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
+| | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) | Bruce |
+| | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) | Bruce |
+| June 18 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Jules |
+|  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) | Jules |
 
 ## <span style="color: red">Data Science Tools</span>
 
@@ -98,10 +102,10 @@ This section is more for interns who will have a Data Science related project.
 
 | Date |  Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| June 21 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
-|         | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) |  |
-| June 23 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
-| June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
+| June 21 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) | Jules |
+|         | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) | Carlos |
+| June 23 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) | Bruce |
+| June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) | Jules |
 
 
 ## <span style="color: red">Course Evaluation</span>
@@ -112,6 +116,10 @@ The Evaluation is required. Please take it after you have completed your last se
 <a href="https://forms.gle/mnYy5p2Q55i7EZrX7">Course Evaluation</a>
 </center>
 
+<P>
+</P>
+<P>
+</P>
 
 ## <span style="color: red">Additional Resources</span>
 
