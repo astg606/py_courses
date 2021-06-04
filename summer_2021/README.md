@@ -48,7 +48,7 @@ To take these beginner (Introduction) sessions and the more advanced (Data Scien
  We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
 - Install Git on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). This is not required but highly recommended.
 
-**Classes will take place on Mondays, Wednesdays and Fridays from 1:00 am to 4:00 pm (US EST).**
+**The first course will be on Thursday, June 10 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 25). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
 ## <span style="color: red">Starting Point</span>
 
