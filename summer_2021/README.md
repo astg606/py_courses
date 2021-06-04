@@ -70,7 +70,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 If you have never been exposed to Python, you need to take this Introduction to Python course. In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
 <center>
-<a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
+<a href="https://forms.gle/Rn3y3tHUosrCtoFV7">Python Assessment Test</a>
 </center>
 
 <P>
