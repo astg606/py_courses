@@ -44,9 +44,8 @@ To take these beginner (Introduction) sessions and the more advanced (Data Scien
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
 - Have a [Github](github.com) account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
-- Install on your local machine the Anaconda Python Distribution. It is not required but it is highly recommended if you plan to write Python code for your project.
- We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
-- Install Git on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). This is not required but highly recommended.
+- Install (**not required**) on your local machine the Anaconda Python Distribution. If your summer project involves writing a Python application, we  highly recommend you install Anaconda (please consult with your mentor)  by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
+- Install Git on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 **The first course will be on Thursday, June 10 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 25). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
@@ -80,7 +79,7 @@ If you have never been exposed to Python, you need to take this Introduction to 
 
 **<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python sessions.</span>** If you have any issue with the test, please contact Jules (jules.kouatchou@nasa.gov).
 
-If you score at least 80% then only take the **Scri[ting and Packaging** topic. Otherwise, take all the Introduction to Python sessions.
+If you score at least 80% then only take the **Scripting and Packaging** topic. Otherwise, take all the Introduction to Python sessions.
 
 
 
