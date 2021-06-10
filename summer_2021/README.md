@@ -120,9 +120,9 @@ This section is more for interns who will have a Data Science related project.
 
 The Evaluation is required. Please take it after you have completed your last session. 
 
-<center>
+<div align="center">
 [Course Evaluation](https://forms.gle/mnYy5p2Q55i7EZrX7){:target="_blank" rel="noopener"}
-</center>
+</div>
 
 <P>
 </P>
