@@ -14,9 +14,9 @@ This course introduces the fundamental concepts of the Python programming langua
 
 The instructors are:
 
-- Carlos Cruz (carlos.a.cruz@nasa.gov)
-- Bruce Van Aartsen (bruce.vanaartsen@nasa.gov)
-- Jules Kouatchou (jules.kouatchou@nasa.gov)
+- Carlos Cruz (Carlos.A.Cruz@nasa.gov)
+- Bruce Van Aartsen (Bruce.VanAartsen@nasa.gov)
+- Jules Kouatchou (Jules.Kouatchou@nasa.gov)
 
 ## Objectives
 In the Introduction to Python, you will learn:
@@ -57,7 +57,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Lecture Topic | Interactive Link (materials) | Instructor |
 |---|---|---|---|
-| [June 10](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwZTc5NWItNzQyMi00ZTYyLWJiNDEtZWFmYzk5Yjg2Mjg1%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | Carlos |
+| [June 10](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwZTc5NWItNzQyMi00ZTYyLWJiNDEtZWFmYzk5Yjg2Mjg1%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb){:target="_blank" rel="noopener"} | Carlos |
 
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
@@ -77,7 +77,7 @@ If you have never been exposed to Python, you need to take this Introduction to 
 <P>
 </P>
 
-**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python sessions.</span>** If you have any issue with the test, please contact Jules (jules.kouatchou@nasa.gov).
+**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python sessions.</span>** If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
 
 If you score at least 80% then only take the **Scripting and Packaging** topic. Otherwise, take all the Introduction to Python sessions.
 
