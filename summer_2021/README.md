@@ -55,9 +55,9 @@ All the classes will be provided using Jupyter notebooks. We will be explaining 
 
 Regardless of their level of proficiency in Python, all interns are expected to take the class on  **Introduction to Git**.
 
-| Date | Lecture Topic | Interactive Link | Instructor |
+| Date | Lecture Topic | Interactive Link (materials) | Instructor |
 |---|---|---|---|
-| June 10 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | Carlos |
+| [June 10](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwZTc5NWItNzQyMi00ZTYyLWJiNDEtZWFmYzk5Yjg2Mjg1%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) | Carlos |
 
 <!---
 | June 10 | **Introduction to Jupyter Notebook**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb) |
@@ -105,6 +105,15 @@ This section is more for interns who will have a Data Science related project.
 |         | **Basic Visualization with Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib.ipynb) | Carlos |
 | June 23 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) | Bruce |
 | June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) | Jules |
+
+<!---
+| [June 14](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFkYmQ4Y2EtNzk3Ni00OGM1LWI0MDMtNjE5ZjYzZTM4OTg1%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) | Jules |
+| [June 16](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2UyNTRkNmUtZmZjOS00YzI3LTgzNGYtMTI5ZTE4ODUxZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) | Jules |
+| [June 18](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODZkMmYzMDktMGQ2OS00NGJkLThkYzktOGE4ZTg5NmFmYmIx%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) | Jules |
+| [June 21](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWE5YWNhZGQtOGI1YS00NGNlLTlhNTktM2UwMTc4MTJiNGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) | Jules |
+| [June 23](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIxNDljMWEtZTZjNi00NDMxLWFhNjEtZjJjYmQ4Y2I0NmM3%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) | Bruce |
+| [June 25](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNjY2I2MWItNGRjMC00NmJlLTliNjktYjE4ODkzMjM3ZDQz%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) | Jules |
+--->
 
 
 ## <span style="color: red">Course Evaluation</span>
