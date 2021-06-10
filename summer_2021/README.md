@@ -69,7 +69,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 If you have never been exposed to Python, you need to take this Introduction to Python course. In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
 <center>
-<a href="https://forms.gle/Rn3y3tHUosrCtoFV7">Python Assessment Test</a>
+<a href="https://forms.gle/Rn3y3tHUosrCtoFV7" target="_blank">Python Assessment Test</a>
 </center>
 
 <P>
@@ -121,7 +121,7 @@ This section is more for interns who will have a Data Science related project.
 The Evaluation is required. Please take it after you have completed your last session. 
 
 <div align="center">
-[Course Evaluation](https://forms.gle/mnYy5p2Q55i7EZrX7){:target="_blank" rel="noopener"}
+<a href="https://forms.gle/mnYy5p2Q55i7EZrX7" target="_blank">Course Evaluation</a>
 </div>
 
 <P>
