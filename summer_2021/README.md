@@ -95,6 +95,8 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 | June 18 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb){:target="_blank" rel="noopener"} | Jules |
 |  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb){:target="_blank" rel="noopener"} | Jules |
 
+<p>
+</p>
 The class on Friday, June 18 will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). To access SMCE (granted from 12:30 pm to 6:00 pm on June 18), click on the link:
 
 [https://astg.mysmce.com](https://astg.mysmce.com)
@@ -102,6 +104,9 @@ The class on Friday, June 18 will take place on the NASA Center for Climate Simu
 It is assumed that you have already provided your gmail userid.
 You will use your gmail credential to automatically access the system.
 It is recommended that you first use a browser to  access your gmail account and then click on the link above.
+
+In the class, we will use the `vi` file editor. If you are not familiar yet with `vi`, we recommend that you learn the basic `vi` commands.
+You can start with the following tutorial: [Vi Text Editor!](https://ryanstutorials.net/linuxtutorial/vi.php).
 
 
 
