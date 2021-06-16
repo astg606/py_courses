@@ -99,7 +99,7 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 </p>
 The class on Friday, June 18 will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). To access SMCE (granted from 12:30 pm to 6:00 pm on June 18), click on the link:
 
-[https://astg.mysmce.com](https://astg.mysmce.com)
+[https://astg.mysmce.com](https://astg.mysmce.com){:target="_blank" rel="noopener"}
 
 It is assumed that you have already provided your gmail userid.
 You will use your gmail credential to automatically access the system.
