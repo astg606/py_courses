@@ -89,11 +89,21 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 |  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb){:target="_blank" rel="noopener"} |  Jules |
 | | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb){:target="_blank" rel="noopener"} | Bruce |
 | | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb){:target="_blank" rel="noopener"} |  Jules |
-| June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb){:target="_blank" rel="noopener"} | Jules |
+| [June 16](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2UyNTRkNmUtZmZjOS00YzI3LTgzNGYtMTI5ZTE4ODUxZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb){:target="_blank" rel="noopener"} | Jules |
 | | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb){:target="_blank" rel="noopener"} | Bruce |
 | | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb){:target="_blank" rel="noopener"} | Bruce |
 | June 18 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb){:target="_blank" rel="noopener"} | Jules |
 |  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb){:target="_blank" rel="noopener"} | Jules |
+
+The class on Friday, June 18 will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). To access SMCE (granted from 12:30 pm to 6:00 pm on June 18), click on the link:
+
+[https://astg.mysmce.com](https://astg.mysmce.com)
+
+It is assumed that you have already provided your gmail userid.
+You will use your gmail credential to automatically access the system.
+It is recommended that you first use a browser to  access your gmail account and then click on the link above.
+
+
 
 ## <span style="color: red">Data Science Tools</span>
 
@@ -107,7 +117,6 @@ This section is more for interns who will have a Data Science related project.
 | June 25 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb){:target="_blank" rel="noopener"} | Jules |
 
 <!---
-| [June 16](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2UyNTRkNmUtZmZjOS00YzI3LTgzNGYtMTI5ZTE4ODUxZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb){:target="_blank" rel="noopener"} | Jules |
 | [June 18](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODZkMmYzMDktMGQ2OS00NGJkLThkYzktOGE4ZTg5NmFmYmIx%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb){:target="_blank" rel="noopener"} | Jules |
 | [June 21](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWE5YWNhZGQtOGI1YS00NGNlLTlhNTktM2UwMTc4MTJiNGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb){:target="_blank" rel="noopener"} | Jules |
 | [June 23](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIxNDljMWEtZTZjNi00NDMxLWFhNjEtZjJjYmQ4Y2I0NmM3%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb){:target="_blank" rel="noopener"} | Bruce |
