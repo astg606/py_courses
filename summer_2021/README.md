@@ -107,6 +107,11 @@ It is recommended that you first use a browser to  access your gmail account and
 
 In the class, we will use the `vi` file editor. If you are not familiar yet with `vi`, we recommend that you learn the basic `vi` commands.
 You can start with the following tutorial: [Vi Text Editor!](https://ryanstutorials.net/linuxtutorial/vi.php).
+<p>
+</p>
+The source code we worked on is available at:
+
+[https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter](https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter)
 
 
 
@@ -117,6 +122,7 @@ This section is more for interns who will have a Data Science related project.
 | Date |  Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
 | [June ~~21~~ 23](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWE5YWNhZGQtOGI1YS00NGNlLTlhNTktM2UwMTc4MTJiNGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb){:target="_blank" rel="noopener"} | Jules |
+| | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib_new.ipynb){:target="_blank" rel="noopener"} | Bruce |
 | [June ~~23~~ 25](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIxNDljMWEtZTZjNi00NDMxLWFhNjEtZjJjYmQ4Y2I0NmM3%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb){:target="_blank" rel="noopener"} | Bruce |
 | [June ~~25~~ 28](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNjY2I2MWItNGRjMC00NmJlLTliNjktYjE4ODkzMjM3ZDQz%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d){:target="_blank" rel="noopener"} | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb){:target="_blank" rel="noopener"} | Jules |
 
