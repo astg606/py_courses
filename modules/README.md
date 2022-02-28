@@ -13,7 +13,7 @@
 
 ## [Data Vizualization](vis)
 
-## [Machine Learning](machnine_learning)
+## [Machine Learning](machine_learning)
 
 ## [Programming Concepts](programming)
 
