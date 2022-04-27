@@ -1,4 +1,4 @@
-# Python Course for 2022 NASA Summer Interns
+# Python Course for 2022 NASA GSFC Summer Interns
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
 
