@@ -42,7 +42,7 @@ While those with some knowledge of Python when they start the intermediate sessi
 To take these beginner (Introduction) sessions and the more advanced (Data Science) sessions, you are expected to:
 
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
-- Have a [Github](https://github.com/){:target="_blank" rel="noopener"} account. Github is a web-based collaborative
+- Have a <a href="https://github.com/" target="_blank">Github</a>  account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
 - Install (**not required**) on your local machine the Anaconda Python Distribution. If your summer project involves writing a Python application, we  highly recommend you install Anaconda (please consult with your mentor)  by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/){:target="_blank" rel="noopener"}
 - Install Git (not required) on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git){:target="_blank" rel="noopener"}.
