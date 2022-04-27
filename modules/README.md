@@ -11,7 +11,7 @@
 
 ## [Tools for Earth Science](earth_science)
 
-## [Data Vizualization](vis)
+## [Data Visualization](vis)
 
 ## [Machine Learning](machine_learning)
 
