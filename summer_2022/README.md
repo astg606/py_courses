@@ -49,10 +49,14 @@ To take these beginner (Introduction) sessions and the more advanced (Data Scien
 
 **The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
+## <span style="color: red">Teaching Platform</span>
+
+Most of the classes will use [Google Colaboratory](https://colab.research.google.com/). 
+You are required to have a gmail account.
 <p>
 </p>
-The classes on Monday, June 9 and  Friday, June 17  will take place on the [NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE)](https://astg.mysmce.com). 
-The access to SMCE will be granted on the days of the classes from 12:30 pm to 6:00 pm.
+However, the classes on Monday, June 9 and  Friday, June 17  will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). 
+The access to [SMCE](https://astg.mysmce.com) will be granted on the days of the classes from 12:30 pm to 6:00 pm.
 You will use your gmail credential to automatically access the system.
 The system will ask you to provide your gmail password or give you automatic access if you are already logged in into gmail (through your browser).
 
@@ -101,31 +105,11 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 |  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |   |
 | | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
 | | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |   |
-| Wednesday, June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
+| Wednesday, June 15 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
 | | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
 | | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
 | Friday, June 17 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
 |  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
-
-<p>
-</p>
-The class on Monday, June 21 (~~originally scheduled on Friday, June 18~~) will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). To access SMCE (granted from 12:30 pm to 6:00 pm on June 21), click on the link:
-
-[https://astg.mysmce.com](https://astg.mysmce.com)
-
-It is assumed that you have already provided your gmail userid.
-You will use your gmail credential to automatically access the system.
-It is recommended that you first use a browser to  access your gmail account and then click on the link above.
-
-In the class, we will use the `vi` file editor. If you are not familiar yet with `vi`, we recommend that you learn the basic `vi` commands.
-You can start with the following tutorial: [Vi Text Editor!](https://ryanstutorials.net/linuxtutorial/vi.php).
-<p>
-</p>
-The source code we worked on is available at:
-
-[https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter](https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter)
-
-
 
 ## <span style="color: red">Data Science Tools</span>
 
