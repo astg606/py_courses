@@ -42,10 +42,10 @@ While those with some knowledge of Python when they start the intermediate sessi
 To take these beginner (Introduction) sessions and the more advanced (Data Science) sessions, you are expected to:
 
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
-- Have a  [Github](https://github.com/" target="_blank) account. Github is a web-based collaborative
+- Have a  [Github](https://github.com/) account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
-- Install (**not required**) on your local machine the Anaconda Python Distribution. If your summer project involves writing a Python application, we  highly recommend you install Anaconda (please consult with your mentor)  by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/ " target="_blank)
-- Install Git (not required) on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git){target="_blank"}.
+- Install (**not required**) on your local machine the Anaconda Python Distribution. If your summer project involves writing a Python application, we  highly recommend you install Anaconda (please consult with your mentor)  by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
+- Install Git (not required) on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 **The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
@@ -67,13 +67,13 @@ You can start with the following tutorial: [Vi Text Editor!](https://ryanstutori
 
 ## <span style="color: red">Starting Point</span>
 
-All the classes will be provided using Jupyter notebooks. We will be explaining the featutues of Jupyter notebooks as we move along. In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb){target="_blank"}.
+All the classes will be provided using Jupyter notebooks. We will be explaining the featutues of Jupyter notebooks as we move along. In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb).
 
 Regardless of their level of proficiency in Python, all interns are expected to take the class on  **Introduction to Git**.
 
 | Date | Lecture Topic | Interactive Link (materials) | Instructor |
 |---|---|---|---|
-| Thursday, June 9 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb){target="_blank"} |  |
+| Thursday, June 9 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |  |
 
 
 ## <span style="color: red">Introduction to Python</span>
@@ -97,21 +97,21 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 
 | Date | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| Monday, June 13 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb){target="_blank"} |  |
-|  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb){target="_blank"} |   |
-| | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb){target="_blank"} |  |
-| | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb){target="_blank"} |   |
-| Wednesday, June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb){target="_blank"} |  |
-| | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb){target="_blank"} |  |
-| | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb){target="_blank"} |  |
-| Friday, June 17 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb){target="_blank"} |  |
-|  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb){target="_blank"} |  |
+| Monday, June 13 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
+|  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |   |
+| | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
+| | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |   |
+| Wednesday, June 16 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
+| | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
+| | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
+| Friday, June 17 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
+|  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
 
 <p>
 </p>
 The class on Monday, June 21 (~~originally scheduled on Friday, June 18~~) will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). To access SMCE (granted from 12:30 pm to 6:00 pm on June 21), click on the link:
 
-[https://astg.mysmce.com](https://astg.mysmce.com){target="_blank"}
+[https://astg.mysmce.com](https://astg.mysmce.com)
 
 It is assumed that you have already provided your gmail userid.
 You will use your gmail credential to automatically access the system.
@@ -123,7 +123,7 @@ You can start with the following tutorial: [Vi Text Editor!](https://ryanstutori
 </p>
 The source code we worked on is available at:
 
-[https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter](https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter){target="_blank"}
+[https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter](https://github.com/astg606/py_materials/tree/master/packaging_deployment/temperature_converter)
 
 
 
@@ -133,10 +133,10 @@ This section is more for interns who will have a Data Science related project.
 
 | Date |  Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|
-| Wednesday, June 22 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy_new.ipynb){target="_blank"} |  |
-| | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib_new.ipynb){target="_blank"} | Carlos |
-| Friday, June 24 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb){target="_blank"} |  |
-| Monday, June 27 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb){target="_blank"} |  |
+| Wednesday, June 22 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy_new.ipynb) |  |
+| | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_matplotlib_new.ipynb) |  |
+| Friday, June 24 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
+| Monday, June 27 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
 
 ## <span style="color: red">Course Evaluation</span>
@@ -156,44 +156,40 @@ The Evaluation is required. Please take it after you have completed your last se
 
 For those who want to know more about the wealth of Python resources and discipline focused packages, explore the samples below.
 
-#### Objected Oriented Programming
-- Introduction to OOP with Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/object_oriented_programming/introduction_oop.ipynb){target="_blank"}
+#### [Prrogramming Concepts](https://github.com/astg606/py_courses/tree/master/modules/programming)
+
+#### [Code Optimization](https://github.com/astg606/py_courses/tree/master/modules/optimization)
+
+#### [Python Tools for Earth Science](https://github.com/astg606/py_courses/tree/master/modules/earth_science)
+
+#### [Data Visualization](https://github.com/astg606/py_courses/tree/master/modules/vis)
+
+#### [Web Scraping](https://github.com/astg606/py_courses/tree/master/modules/web_scraping)
+
+#### [Data Science](https://github.com/astg606/py_courses/tree/master/modules/data_science)
+
+#### [Machine Learning](https://github.com/astg606/py_courses/tree/master/modules/machine_learning)
 
 #### Computing Tools
-- SciPy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/scipy/introduction_scipy.ipynb){target="_blank"}
+- SciPy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/scipy/introduction_scipy.ipynb)
      - Provide utility functions for optimization, statistics, imahe procession, signal processing, etc.
 
-#### Earth Science
-- netCDF4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_netcdf4.ipynb){target="_blank"} 
-     - Tool for manipulating netCDF file.
-- h5py: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_h5py.ipynb){target="_blank"}
-     - Tool for manipulating HDF5 files
-- Cartopy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/visualization/introduction_cartopy.ipynb){target="_blank"}
-     - Tool for geospatial data processing in order to produce maps and other geospatial data analyses.
-- Xarray: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/xarray/introduction_xarray.ipynb){target="_blank"}
-     - Tool for manipulating labelled multi-dimensional arrays. Suitable for manipulating netCDF files.
-
 #### Astronomy
-- [Astropy](https://www.astropy.org/){target="_blank"}
+- [Astropy](https://www.astropy.org/)
      - Collection of software packages designed for use in astronomy.
 
 #### Solar Physics
-- [Sunpy](https://github.com/sunpy/sunpy){target="_blank"}
+- [Sunpy](https://github.com/sunpy/sunpy)
      - Python library for Solar Physics data analysis and visualization.
-- [pysat](https://pysat.readthedocs.io/en/latest/){target="_blank"}
+- [pysat](https://pysat.readthedocs.io/en/latest/)
      - The Python Satellite Data Analysis Toolkit (pysat) simplifies the process of using new instruments, reduces data management overhead, and enables the creation of instrument independent analysis routines.
-- [HelioPy](https://docs.heliopy.org/en/stable/){target="_blank"}
+- [HelioPy](https://docs.heliopy.org/en/stable/)
      - Set of tools for heliopsheric and planetary physics.
-- [PlasmaPy](https://www.plasmapy.org/){target="_blank"}
+- [PlasmaPy](https://www.plasmapy.org/)
      - Python package that provides common functionality required for plasma physics in a single, reliable codebase.
-- [SpacePy](https://spacepy.github.io/){target="_blank"}
+- [SpacePy](https://spacepy.github.io/)
      - Python package for data analysis, modeling and visualization in space sciences.
 
-
-#### Machine Learning
-- Exporatory Data Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_exploratory_data_analysis.ipynb){target="_blank"}
-- Basic Machine Learning Modeling with Scikit-Learn: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb){target="_blank"}
-- Basic Machine Learning Modeling with TensorFlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_regression_tensorflow.ipynb){target="_blank"}
 
 <!---
 | 17:15-17:30 | **Feedback Session** |  |  |
