@@ -6,9 +6,9 @@
 Python can be extended via libraries that can be used to tackle problems in machine learning, data analysis, and beyond. It has a vast ecosystem and a dynamic user's community that make Python accessible to everyone.
 
 The focus of this course will be on Data Science.
-According to <a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia</a>, **Data Science** is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science.
+According to <a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia</a>, **Data Science** is a `concept to unify statistics, data analysis, machine learning and their related methods` in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science.
 Because of its features, Python is one of the preferred programming languages that data scientists can use to explore and analyze their datasets.
-The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in Data Science</a> has gone hand in hand with that of Pandas, External link  which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
+The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in Data Science</a> has gone hand in hand with that of Pandas, which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
 
 This course introduces the fundamental concepts of the Python programming language. In addition, it presents Python packages (Numpy, Matplotlib, and Pandas) used for data manipulation and visualization. The basics of Python combined with the Data Science topics, provide the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
