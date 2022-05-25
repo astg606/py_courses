@@ -1,9 +1,3 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
 # Python Course Series for 2022 NASA GSFC Summer Interns
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
@@ -58,19 +52,17 @@ Those with some knowledge of Python when they start the Python for Data Science 
 will be able to write their own Python scripts to access web resources, read remote text files or tables, 
 perform data wrangling, carry out basic data analytics and visualize data.
 
-### Which Session to Select?
+#### Which Session to Select?
 
 If you have never been exposed to Python, you need to take this Introduction to Python course. 
 In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
-<center>
+<div align="center">
 <a href="https://forms.gle/Rn3y3tHUosrCtoFV7" target="_blank">Python Assessment Test</a>
-</center>
+</div>
 
 <P>
-</P>
 <P>
-</P>
 
 **<span style="color: red">Make sure that you take this placement test (only once) by June 9 before you are 
 allowed to take any Python sessions.</span>** 
@@ -79,33 +71,33 @@ If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.
 If you score at least 80% then only take the **Scripting and Packaging** topic. 
 Otherwise, take all the classes in the Introduction to Python session.
 
+**The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
+## <span style="color: red">Teaching Platform</span>
 
-To take these sessions, you are expected to:
+To take any of the two sessions, you are expected to:
 
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
 - Have a  [Github](https://github.com/) account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
 
-**The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
-## <span style="color: red">Teaching Platform</span>
 
 Most of the classes will use [Google Colaboratory](https://colab.research.google.com/). 
 You are required to have a gmail account.
 <p>
 </p>
-However, the classes on Monday, June 9 and  Friday, June 17  will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). 
-The access to [SMCE](https://astg.mysmce.com) will be granted on the days of the classes from 12:30 pm to 6:00 pm.
+However, the classes on Thursday, June 9 and  Friday, June 17 will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). 
+The access to SMCE [https://astg.mysmce.com](https://astg.mysmce.com) will be granted on June 9th.
 You will use your gmail credential to automatically access the system.
 The system will ask you to provide your gmail password or give you automatic access if you are already logged in into gmail (through your browser).
 
 We recommend that 1-2 days before the beginning of each class on the SMCE, you provide (once) your gmail userid by filling out the online form:
 
-[Provide your gmail userid HERE](https://forms.gle/JaCFNocQQP2WxYhL9)
+<div align="center">
+<a href="https://forms.gle/JaCFNocQQP2WxYhL9">Provide your gmail userid HERE</a>
+</div>
 
-In the classes on the SMCE, we will use the `vi` file editor. If you are not familiar yet with `vi`, we recommend that you learn the basic `vi` commands.
-You can start with the following tutorial: [Vi Text Editor!](https://ryanstutorials.net/linuxtutorial/vi.php).
 <p>
 </p>
 
