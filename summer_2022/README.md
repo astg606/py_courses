@@ -143,6 +143,17 @@ If you score at least 80% then only take the **Scripting and Packaging** topic. 
 | Friday, June 17 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
 |  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
 
+
+To deepen your Python skills, you may consider doing the following exercises:
+
+<div align="center">
+<a href="https://holypython.com/beginner-python-exercises/"> Beginner Python Exercises by Holy Python</a>
+</div>
+
+<p>
+<p>
+
+
 ## <span style="color: red">Data Science Tools</span>
 
 This section is more for interns who will have a Data Science related project.
