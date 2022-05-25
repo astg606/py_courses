@@ -1,4 +1,10 @@
-# Python Course for 2022 NASA GSFC Summer Interns
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Python Course Series for 2022 NASA GSFC Summer Interns
 
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
 
@@ -7,7 +13,7 @@ Python can be extended via libraries that can be used to tackle problems in mach
 
 The focus of this course will be on Data Science.
 According to <a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia</a>, **Data Science** is a `concept to unify statistics, data analysis, machine learning and their related methods` in order to `understand and analyze actual phenomena` with large volumes of data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science.
-It aims o find unseen patterns, derive meaningful information, and make decisions based on the data.
+It aims to find unseen patterns, derive meaningful information, and make decisions based on the data.
 
 Because of its features, Python is one of the preferred programming languages that data scientists can use to explore and analyze their datasets.
 The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in Data Science</a> has gone hand in hand with that of Pandas, which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
@@ -20,7 +26,12 @@ The instructors are:
 - Bruce Van Aartsen (Bruce.VanAartsen@nasa.gov)
 - Jules Kouatchou (Jules.Kouatchou@nasa.gov)
 
-## Objectives
+## <span style="color: red">Objectives</span>
+
+This course series is divided in two sessions: 
+- **Introductions to Python**: Meant for interns who are familiar with basic computer programming and are new in Python.
+- **Python for Data Science**: Meant for interns who have Python knowledge and plan to work on a project involving Data Science.
+
 In the Introduction to Python, you will learn:
 
 - Python basic syntax, variables, and types
@@ -30,6 +41,12 @@ In the Introduction to Python, you will learn:
 - I/O with text files
 - Scripting and packaging
 
+At the end of the Introduction to Python sessions, learners will be able to write 
+a basic Python application using functions and modules.  
+
+<P>
+<P>
+
 In the Python for Data Science, the following will be covered:
 
 - Numpy arrays
@@ -37,17 +54,38 @@ In the Python for Data Science, the following will be covered:
 - Web scraping
 - Data manipulation (reading data file, performing statistical analysis, visualization, handling time series data) with Pandas
 
-At the end of the Beginners sessions, learners will be able to write a basic Python application using functions and modules.  
-While those with some knowledge of Python when they start the intermediate sessions—Python for data science will be able to write their own Python scripts access web resources, read remote text files or tables, perform data wrangling, carry out basic data analytics and visualize data.
+Those with some knowledge of Python when they start the Python for Data Science session,
+will be able to write their own Python scripts to access web resources, read remote text files or tables, 
+perform data wrangling, carry out basic data analytics and visualize data.
+
+### Which Session to Select?
+
+If you have never been exposed to Python, you need to take this Introduction to Python course. 
+In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
+
+<center>
+<a href="https://forms.gle/Rn3y3tHUosrCtoFV7" target="_blank">Python Assessment Test</a>
+</center>
+
+<P>
+</P>
+<P>
+</P>
+
+**<span style="color: red">Make sure that you take this placement test (only once) by June 9 before you are 
+allowed to take any Python sessions.</span>** 
+If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
+
+If you score at least 80% then only take the **Scripting and Packaging** topic. 
+Otherwise, take all the classes in the Introduction to Python session.
 
 
-To take these beginner (Introduction) sessions and the more advanced (Data Science) sessions, you are expected to:
+
+To take these sessions, you are expected to:
 
 - Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
 - Have a  [Github](https://github.com/) account. Github is a web-based collaborative
   tool to discover, share and build software. You might need to share what you do with your mentor. 
-- Install (**not required**) on your local machine the Anaconda Python Distribution. If your summer project involves writing a Python application, we  highly recommend you install Anaconda (please consult with your mentor)  by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
-- Install Git (not required) on your local machine by following the installation instructions: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 **The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
 
@@ -136,13 +174,24 @@ The Evaluation is required. Please take it after you have completed your last se
 <P>
 </P>
 <P>
+
 </P>
+
+## <span style="color: red">Installing Packages</span>
+
+To take any of the above course, your are not expected to install anything on your computer.
+However, if you have the requirement permissions and you want to use the materials on your local
+platform, you might consider installing the packages:
+
+- The Anaconda Python Distribution: you need to follow the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
+- The Git version control: the installation instructions are: [Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
 
 ## <span style="color: red">Additional Resources</span>
 
 For those who want to know more about the wealth of Python resources and discipline focused packages, explore the samples below.
 
-#### [Prrogramming Concepts](https://github.com/astg606/py_courses/tree/master/modules/programming)
+#### [Programming Concepts](https://github.com/astg606/py_courses/tree/master/modules/programming)
 
 #### [Code Optimization](https://github.com/astg606/py_courses/tree/master/modules/optimization)
 
@@ -158,7 +207,7 @@ For those who want to know more about the wealth of Python resources and discipl
 
 #### Computing Tools
 - SciPy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/scipy/introduction_scipy.ipynb)
-     - Provide utility functions for optimization, statistics, imahe procession, signal processing, etc.
+     - Provide utility functions for optimization, statistics, image processing, signal processing, etc.
 
 #### Astronomy
 - [Astropy](https://www.astropy.org/)
