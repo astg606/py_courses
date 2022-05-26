@@ -10,7 +10,7 @@ According to <a href="https://en.wikipedia.org/wiki/Data_science">Wikipedia</a>,
 It aims to find unseen patterns, derive meaningful information, and make decisions based on the data.
 
 Because of its features, Python is one of the preferred programming languages that data scientists can use to explore and analyze their datasets.
-The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in Data Science</a> has gone hand in hand with that of Pandas, which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
+The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">growth of Python in Data Science</a> has gone hand in hand with that of its Pandas library, which opened the use of Python for data analysis to a broader audience by enabling it to deal with row-and-column datasets, import CSV files, and much more.
 
 This course introduces the fundamental concepts of the Python programming language. In addition, it presents Python packages (Numpy, Matplotlib, and Pandas) used for data manipulation and visualization. The basics of Python combined with the Data Science topics, provide the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
@@ -23,7 +23,7 @@ The instructors are:
 ## <span style="color: red">Objectives</span>
 
 This course series is divided in two sessions: 
-- **Introductions to Python**: Meant for interns who are familiar with basic computer programming and are new in Python.
+- **Introductions to Python**: Meant for interns who are familiar with basic computer programming, but are new in Python.
 - **Python for Data Science**: Meant for interns who have Python knowledge and plan to work on a project involving Data Science.
 
 In the Introduction to Python, you will learn:
@@ -71,7 +71,7 @@ If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.
 If you score at least 80% then only take the **Scripting and Packaging** topic. 
 Otherwise, take all the classes in the Introduction to Python session.
 
-**The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EST).**
+**The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EDT).**
 
 ## <span style="color: red">Teaching Platform</span>
 
@@ -103,7 +103,7 @@ We recommend that 1-2 days before the beginning of each class on the SMCE, you p
 
 ## <span style="color: red">Starting Point</span>
 
-All the classes will be provided using Jupyter notebooks. We will be explaining the featutues of Jupyter notebooks as we move along. In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb).
+All the classes will be provided using Jupyter notebooks. We will be explaining the features of Jupyter notebooks as we move along. In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb).
 
 Regardless of their level of proficiency in Python, all interns are expected to take the class on  **Introduction to Git**.
 
@@ -113,21 +113,6 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 
 ## <span style="color: red">Introduction to Python</span>
-
-If you have never been exposed to Python, you need to take this Introduction to Python course. In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
-
-<center>
-<a href="https://forms.gle/Rn3y3tHUosrCtoFV7" target="_blank">Python Assessment Test</a>
-</center>
-
-<P>
-</P>
-<P>
-</P>
-
-**<span style="color: red">Make sure that you take this placement test (only once) by June 11 before you are allowed to take any Python sessions.</span>** If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
-
-If you score at least 80% then only take the **Scripting and Packaging** topic. Otherwise, take all the Introduction to Python sessions.
 
 
 
@@ -182,8 +167,8 @@ The Evaluation is required. Please take it after you have completed your last se
 
 ## <span style="color: red">Installing Packages</span>
 
-To take any of the above course, your are not expected to install anything on your computer.
-However, if you have the requirement permissions and you want to use the materials on your local
+To take any of the above courses, you are not expected to install anything on your computer.
+However, if you have the required permissions and you want to use the materials on your local
 platform, you might consider installing the packages:
 
 - The Anaconda Python Distribution: you need to follow the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
@@ -222,7 +207,7 @@ For those who want to know more about the wealth of Python resources and discipl
 - [pysat](https://pysat.readthedocs.io/en/latest/)
      - The Python Satellite Data Analysis Toolkit (pysat) simplifies the process of using new instruments, reduces data management overhead, and enables the creation of instrument independent analysis routines.
 - [HelioPy](https://docs.heliopy.org/en/stable/)
-     - Set of tools for heliopsheric and planetary physics.
+     - Set of tools for heliospheric and planetary physics.
 - [PlasmaPy](https://www.plasmapy.org/)
      - Python package that provides common functionality required for plasma physics in a single, reliable codebase.
 - [SpacePy](https://spacepy.github.io/)
