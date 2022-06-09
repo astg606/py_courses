@@ -118,8 +118,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Teams Link | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|---|
-| Wednesday, June 22 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjU5MjcyMTgtMWIzZS00M2M0LTg3ODYtZGZlY2Y2MDYyYjRk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) :w
-| **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
+| Wednesday, June 22 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjU5MjcyMTgtMWIzZS00M2M0LTg3ODYtZGZlY2Y2MDYyYjRk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
 |  |  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |   |
 |  | | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
 |  | | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |   |
