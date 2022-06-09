@@ -109,7 +109,7 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Teams Link | Lecture Topic | Interactive Link (materials) | Instructor |
 |---|---|---|---|---|
-| Thursday, June 16 | |  **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |  |
+| Thursday, June 16 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI1MWRmZjUtYTQ1Yy00ZDNhLWIyZmQtNTM5ZDlkYTY1YzE0%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d)|  **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |  |
 
 
 ## <span style="color: red">Introduction to Python</span>
@@ -118,14 +118,15 @@ Regardless of their level of proficiency in Python, all interns are expected to 
 
 | Date | Teams Link | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|---|
-| Wednesday, June 22 | | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
+| Wednesday, June 22 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjU5MjcyMTgtMWIzZS00M2M0LTg3ODYtZGZlY2Y2MDYyYjRk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) :w
+| **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
 |  |  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |   |
 |  | | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
 |  | | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |   |
-| Friday, June 24 | | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
+| Friday, June 24 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNkNjk4ZjMtNDk2MC00NzVlLWIyMzItZDMwNzhkYWUzMjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
 | | | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
 | | | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
-| Monday, June 27 | | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
+| Monday, June 27 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2IzN2IxNDgtOTIxOC00OTg4LWJhODAtOTcwOWUzMDM1ODRl%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
 |  | | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
 
 
@@ -145,10 +146,10 @@ This section is more for interns who will have a Data Science related project.
 
 | Date |  Teams Link | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|---|
-| Wednesday, June 29 | | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
+| Wednesday, June 29 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJlY2NlNTgtNDRlZi00NzM4LTgwNWEtZTk4MTEzN2E5M2Nh%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
 | | | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/matplotlib/introduction_matplotlib.ipynb) |  |
-| Friday, July 1 |  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
-| Wednesday, July 6 | | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
+| Friday, July 1 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzc1YjNiMGEtM2M5Yy00MWQxLTk2ZWYtMjE0NjJmOWE5YjRm%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d)  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
+| Wednesday, July 6 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjI2YzZkZWMtZGRjYy00YTgyLTk2YTctOWZkOTExZGYxNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
 
 ## <span style="color: red">Course Evaluation</span>
