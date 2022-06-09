@@ -58,7 +58,7 @@ If you have never been exposed to Python, you need to take this Introduction to 
 In case you did some Python programming in the past and you want to assess your Python knowledge, take the following test (in less that 15 minutes and without using any help):
 
 <div align="center">
-<a href="https://forms.gle/Rn3y3tHUosrCtoFV7" target="_blank">Python Assessment Test</a>
+<a href="https://forms.gle/mGQt4nFDLa5fHU5q9" target="_blank">Python Assessment Test</a>
 </div>
 
 <P>
