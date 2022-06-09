@@ -64,14 +64,14 @@ In case you did some Python programming in the past and you want to assess your 
 <P>
 <P>
 
-**<span style="color: red">Make sure that you take this placement test (only once) by June 9 before you are 
+**<span style="color: red">Make sure that you take this placement test (only once) by June 16 before you are 
 allowed to take any Python sessions.</span>** 
 If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
 
 If you score at least 80% then only take the **Scripting and Packaging** topic. 
 Otherwise, take all the classes in the Introduction to Python session.
 
-**The first course will be on Thursday, June 9 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 13 to June 27). All of them will be from 1:00 pm to 4:00 pm (US EDT).**
+**The first course will be on Thursday, June 16 and the remaining ones will take place on Mondays, Wednesdays and Fridays (from June 22 to July 6). All of them will be from 1:00 pm to 4:00 pm (US EDT).**
 
 ## <span style="color: red">Teaching Platform</span>
 
@@ -107,26 +107,26 @@ All the classes will be provided using Jupyter notebooks. We will be explaining 
 
 Regardless of their level of proficiency in Python, all interns are expected to take the class on  **Introduction to Git**.
 
-| Date | Lecture Topic | Interactive Link (materials) | Instructor |
-|---|---|---|---|
-| Thursday, June 9 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |  |
+| Date | Teams Link | Lecture Topic | Interactive Link (materials) | Instructor |
+|---|---|---|---|---|
+| Thursday, June 16 | **Introduction to Git**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb) |  |
 
 
 ## <span style="color: red">Introduction to Python</span>
 
 
 
-| Date | Lecture Topic | Interactive Link | Instructor |
-|---|---|---|---|
-| Monday, June 13 | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
+| Date | Teams Link | Lecture Topic | Interactive Link | Instructor |
+|---|---|---|---|---|
+| Wednesday, June 22 | | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/welcome/running_python.ipynb) |  |
 |  | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |   |
 | | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/conditional_logic/introduction_conditionals.ipynb) |  |
 | | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/loops/introduction_loops.ipynb) |   |
-| Wednesday, June 15 | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
-| | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
-| | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
-| Friday, June 17 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
-|  | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
+| Friday, June 24 | | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_structures.ipynb) |  |
+| | | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_functions.ipynb) |  |
+| | | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/functions_modules/introduction_modules.ipynb) |  |
+| Monday, June 27 | | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/input_output/introduction_io_text_files.ipynb) |  |
+|  | | **Scripting and Packaging** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/packaging_deployment/scripting_packaging.ipynb) |  |
 
 
 To deepen your Python skills, you may consider doing the following exercises:
@@ -143,12 +143,12 @@ To deepen your Python skills, you may consider doing the following exercises:
 
 This section is more for interns who will have a Data Science related project.
 
-| Date |  Lecture Topic | Interactive Link | Instructor |
-|---|---|---|---|
-| Wednesday, June 22 | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
-| | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/matplotlib/introduction_matplotlib.ipynb) |  |
-| Friday, June 24 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
-| Monday, June 27 | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
+| Date |  Teams Link | Lecture Topic | Interactive Link | Instructor |
+|---|---|---|---|---|
+| Wednesday, June 29 | | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
+| | | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/matplotlib/introduction_matplotlib.ipynb) |  |
+| Friday, July 1 | **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
+| Wednesday, July 6 | | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
 
 ## <span style="color: red">Course Evaluation</span>
