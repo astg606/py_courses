@@ -1,6 +1,8 @@
 # Python Course Series for 2022 NASA GSFC Summer Interns
 
+<p float="left">
 <img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="100" height="100"> <img src="https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true" width="80" height="80"> <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png" width="100" height="100">
+</p>
 
 <!---
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![ASTG](https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true/) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
