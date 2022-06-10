@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-<td> <img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="100" height="100"> </td>
-<td> <img src="https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true" width="80" height="80"> </td>
-<td> <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png" width="100" height="100"></td>
+<td> <img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="110" height="110"> </td>
+<td> <img src="https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true" width="92" height="92"> </td>
+<td> <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png" width="110" height="110"></td>
  </tr>
 </table>
 
