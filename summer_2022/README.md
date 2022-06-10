@@ -5,12 +5,12 @@
 <td> <img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="100" height="100"> </td>
 <td> <img src="https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true" width="80" height="80"> </td>
 <td> <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png" width="100" height="100"></td>
-  </tr>
+ </tr>
 </table>
 
 <!---
 ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) ![ASTG](https://github.com/astg606/py_materials/blob/master/logos/ASTG_logo.png?raw=true/) ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png)
-<---
+--->
 
 <a href="https://datascience.berkeley.edu/blog/python-data-science/">Python is a free, a general-purpose, and portable programming language. It is easy to use with its simple syntax and readability, which makes the code easy to understand and maintain.</a> 
 Python can be extended via libraries that can be used to tackle problems in machine learning, data analysis, and beyond. It has a vast ecosystem and a dynamic user's community that make Python accessible to everyone.
