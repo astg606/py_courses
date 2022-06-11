@@ -24,6 +24,7 @@ The <a href="https://stackoverflow.blog/2017/09/14/python-growing-quickly/">grow
 
 This course introduces the fundamental concepts of the Python programming language. In addition, it presents Python packages (Numpy, Matplotlib, and Pandas) used for data manipulation and visualization. The basics of Python combined with the Data Science topics, provide the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
+
 The instructors are:
 
 - Carlos Cruz (Carlos.A.Cruz@nasa.gov)
@@ -156,6 +157,7 @@ This section is more for interns who will have a Data Science related project.
 | Date |  Teams Link | Lecture Topic | Interactive Link | Instructor |
 |---|---|---|---|---|
 | Wednesday, June 29 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJlY2NlNTgtNDRlZi00NzM4LTgwNWEtZTk4MTEzN2E5M2Nh%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Introduction to Numpy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/numpy/introduction_numpy.ipynb) |  |
+| | | **Introduction to Data Visualization** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/matplotlib/intro_data_visualization.ipynb) |  |
 | | | **Matplotlib** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/matplotlib/introduction_matplotlib.ipynb) |  |
 | Friday, July 1 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzc1YjNiMGEtM2M5Yy00MWQxLTk2ZWYtMjE0NjJmOWE5YjRm%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d)  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) |  |
 | Wednesday, July 6 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjI2YzZkZWMtZGRjYy00YTgyLTk2YTctOWZkOTExZGYxNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
