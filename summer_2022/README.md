@@ -99,7 +99,7 @@ You are required to have a gmail account.
 <p>
 </p>
 However, the classes on Thursday, June 16 and  Monday, June 27 will take place on the NASA Center for Climate Simulation (NCCS) Science Data Managed Cloud Environment (SMCE). 
-The access to SMCE [https://astg.mysmce.com](https://astg.mysmce.com) will be granted on June 16th.
+The access to SMCE <a href="https://astg.mysmce.com">https://astg.mysmce.com</a> will be granted on June 16th.
 You will use your gmail credential to automatically access the system.
 The system will ask you to provide your gmail password or give you automatic access if you are already logged in into gmail (through your browser).
 
