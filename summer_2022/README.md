@@ -163,6 +163,19 @@ This section is more for interns who will have a Data Science related project.
 | Wednesday, July 6 | [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjI2YzZkZWMtZGRjYy00YTgyLTk2YTctOWZkOTExZGYxNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227005d458-45be-48ae-8140-d43da96dd17b%22%2c%22Oid%22%3a%2220cc64e4-b09f-4def-bb73-5ec5a5c6406c%22%7d) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_retrieval/access_web_resources.ipynb) |  |
 
 
+## <span style="color: red">Accessing the Materials</span>
+
+If you have `Git` installed on your computer, you can access the materials by issueing the command:
+
+    git clone https://astg606@github.com/astg606/py_materials.git
+
+For this course series, the above command will be executed on the SMCE platform.
+
+<P>
+</P>
+<P>
+</P>
+
 ## <span style="color: red">Course Evaluation</span>
 
 The Evaluation is required. Please take it after you have completed your last session. 
