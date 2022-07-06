@@ -181,7 +181,7 @@ For this course series, the above command will be executed on the SMCE platform.
 The Evaluation is required. Please take it after you have completed your last session. 
 
 <div align="center">
-<a href="https://forms.gle/mnYy5p2Q55i7EZrX7" target="_blank">Course Evaluation</a>
+<a href="https://forms.gle/L9sB3WLsTsEuqVGR9" target="_blank">Course Evaluation</a>
 </div>
 
 <P>
