@@ -9,7 +9,8 @@
 - **Seaborn and Exploratory Data Analysis**
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/seaborn_and_exploratory_data_analysis.ipynb)
 - **Basic Machine Learning Modeling with Scikit-Learn** 
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb) 
+   - Introduction with a Regression Problem [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_sklearn_introduction_regression.ipynb) 
+   - Image Classification Problem[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_sklearn_image_classification.ipynb) 
 - **Basic Machine Learning Modeling with TensorFlow** 
    - Overview of Neural Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_overview_neural_nets.ipynb)
    - Simple Model Based on a Simple 2D Function [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_tensorflow_introduction.ipynb)
