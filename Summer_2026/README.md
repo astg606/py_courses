@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-<td> <img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" width="110" height="110"> </td>
+<td> <img src="[http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg](https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg)" width="110" height="110"> </td>
  </tr>
 </table>
 
