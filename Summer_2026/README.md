@@ -156,15 +156,15 @@ In case you want to learn more, click on: [![Open In Colab](https://colab.resear
 
 | Date | Teams Link | Lecture Topic | Interactive Link |
 |---|------------|---|---|
-| Tuesday, June 9 | [LINK]()   | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/introduction_python.ipynb) | 
+| Tuesday, June 9 | [LINK](https://teams.microsoft.com/meet/235558733426110?p=nUxy1I6RHKIEuUGdAi)   | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/introduction_python.ipynb) | 
 |  |            | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_basic_data_types.ipynb) |
 |  |            | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_conditional_statements.ipynb) |
-| Thursday, June 11 | [LINK]()   | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_loops.ipynb) |
+| Thursday, June 11 | [LINK](https://teams.microsoft.com/meet/22236366822505?p=JKKBPrEub5yc5vOBSS)   | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_loops.ipynb) |
 |  |            | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_data_structures.ipynb) |
-|Tuesday, June 16| [LINK]()   | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_functions.ipynb) |
+|Tuesday, June 16| [LINK](https://teams.microsoft.com/meet/25157545303988?p=SXpfUH9aO1cZuswFTF)   | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_functions.ipynb) |
 | |            | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_modules.ipynb) |
 | |            | **datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
-| Tuesday, June 18 | [LINK]()   | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
+| Tuesday, June 18 | [LINK](https://teams.microsoft.com/meet/299124175356616?p=lCq0P6ANmu8UfWCYSR)   | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
 |  |            | **Manipulating YAML Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/yaml/understand_yaml.ipynb) |
 
 
@@ -184,8 +184,8 @@ This section is more for interns who will have a Data Science related project.
 
 | Date |  Teams Link | Lecture Topic | Interactive Link |
 |---|---|---|---|
-| Tuesday, June 23 | [LINK]()  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/pandas/fundamentals_pandas.ipynb) |
-| Thursday, June 25 | [LINK]() | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/web_scraping/understand_web_scaping.ipynb)  |
+| Tuesday, June 23 | [LINK](https://teams.microsoft.com/meet/283857088300599?p=VVfixG8WDsnqBl4DFE)  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/pandas/fundamentals_pandas.ipynb) |
+| Thursday, June 25 | [LINK](https://teams.microsoft.com/meet/216200882307920?p=QFioVCy2og7MyRS7A0) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/web_scraping/understand_web_scaping.ipynb)  |
 
 
 
