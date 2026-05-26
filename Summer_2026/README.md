@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-<td> <img src="[http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg](https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg)" width="110" height="110"> </td>
+<td> <img src="[https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg](https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg)" width="110" height="110"> </td>
  </tr>
 </table>
 
@@ -50,52 +50,17 @@ The basics of Python combined with the Data Science topics,
 provide the necessary foundations for Exploratory Data Analysis and Machine Learning.
 
 
-The instructor is:
+## <span style="color: red">What to prepare before the class</span>
 
-- Jules Kouatchou (Jules.Kouatchou@nasa.gov)
+To take any of the sessions offered in this Python course series, you are expected to:
 
-## <span style="color: red">Objectives</span>
+- Have a gmail account (needed to have access to [Google Colaboratory](https://colab.research.google.com/)). 
+    Everything will be taught through the Google cloud based Jupyter notebook.
+- Have a  [Github](https://github.com/) account. Github is a web-based collaborative
+   tool to discover, share and build software. 
+   You might need to share what you do with your mentor and your peers.
 
-This course series is divided in two sessions: 
-- **Introductions to Python** 
-    - For interns who are familiar with basic computer programming, but are new to Python.
-- **Python for Data Science**: 
-    - For interns who have Python knowledge and plan to work on a project involving Data Science.
 
-In the Introduction to Python, you will learn:
-
-- Python basic syntax, variables, and types (integer, float, bool, string)
-- Conditional statements and loops
-- Data structures: list, tuple, dictionary, set
-- Functions and modules
-- I/O with text files
-- Manipulating YAML files.
-
-At the end of the Introduction to Python sessions, learners will be able to write 
-a basic Python application using functions and modules.  
-
-<P>
-<P>
-
-In the Python for Data Science, the following will be covered:
-
-- Data manipulation (reading data file, performing statistical analysis, visualization, handling time series data) with Pandas
-- Web scraping (access and public & remote webserver, read it content, parse the content to extract data, manipulate data)
-
-Those with some knowledge of Python when they start the Python for Data Science track,
-will be able to write their own Python scripts to access web resources, 
-read remote text files or tables, 
-perform data wrangling, carry out basic data analytics and visualize data.
-
-In both tracks, learners will be able to comfortably use Jupyter notebooks,
-and acquire basic skills to create and maintain a Git repository in Github.
-Learners will also be exposed to the use of AI tools to "improve" their
-programming productivity.
-
-#### Which Session to Select?
-
-If you have never been exposed to Python, you need to take this 
-Introduction to Python course. 
 To assess you Python knowledge, consider taking the following test before June 9
 (in less than 15 minutes and without using any help):
 
@@ -110,62 +75,84 @@ To assess you Python knowledge, consider taking the following test before June 9
 <P>
 
 The test is only meant to evaluate your Python knowledge and to determine 
-which session you need to take. 
+which track(s) you need to take. 
 If you have never been exposed to the Python programming language, 
 you do not need to take the test before the sessions start 
 (however, it will be a good idea to take it at the end). 
 If you have programmed with Python before, the test will determine 
 if you have the basic foundations. 
-If it is the case (you score __at least 80%__), 
-you may just want to consider the **Manipulating YAML files** topic
+If you score __at least 80%__, 
+you may want to consider taking the **Manipulating YAML files** topic
 and the Data Science track.
 
-If you encounter __DO NOT EDIT this field or your time will not be recorded__ 
-while taking the test, fill out the box with anything. 
-What you write will not affect your score.
+ > [!WARNING] If you encounter __DO NOT EDIT this field or your time will not be recorded__ while taking the test, fill out the box with anything. What you write will not affect your score.
+
+
 If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
 
 
-## <span style="color: red">Teaching Platform</span>
+## <span style="color: red">Objectives and expected outcomes</span>
 
-To take any of the two sessions, you are expected to:
+This Python course series is divided in two tracks: 
+- **Introductions to Python** 
+    - For interns who are familiar with basic computer programming, but are new to Python.
+- **Data Science**: 
+    - For interns who have Python knowledge and plan to work on a project involving Data Science.
 
-- Have a gmail account (needed to have access to [Google Colaboratory](https://colab.research.google.com/)). 
-    Everything will be taught through the Google cloud based Jupyter notebook.
-- Have a  [Github](https://github.com/) account. Github is a web-based collaborative
-   tool to discover, share and build software. 
-   You might need to share what you do with your mentor. 
+In the Introduction to Python, you will learn:
 
+- Python basic syntax, variables, and types (integer, float, bool, string)
+- Conditional statements and loops
+- Data structures: list, tuple, dictionary, set
+- Functions and modules
+- I/O with text files
+- Manipulating YAML files.
+
+At the end of the Introduction to Python track, learners will be able to write 
+a basic Python application using functions and modules.  
+
+<P>
+<P>
+
+In the Data Science track, the following will be covered:
+
+- Data manipulation (reading data file, performing statistical analysis, visualization, handling time series data) with Pandas
+- Web scraping (access and public & remote webserver, read it content, parse the content to extract data, manipulate data)
+
+Those with some knowledge of Python when they start the Python for Data Science track,
+will be able to write their own Python scripts to access web resources, 
+read remote text files or tables, 
+perform data wrangling, carry out basic data analytics and visualize data.
+
+In both tracks, learners will be able to comfortably use 
+[Jupyter notebooks](https://earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/jupyter-python/),
+and acquire basic skills to create and maintain a Git repository in Github.
+Learners will also be exposed to the use of AI tools to "improve" their
+programming productivity.
 
 
 
 <p>
 </p>
-<p>
-</p>
 
-## <span style="color: red">Starting Point</span>
 
-All the classes will be provided using Jupyter notebooks. 
-We will be explaining the features of Jupyter notebooks as we move along. 
-In case you want to learn more, click on: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb).
-
-## <span style="color: red">Introduction to Python</span>
+## <span style="color: red">Introduction to Python track</span>
 
 
 
-| Date | Teams Link | Lecture Topic | Interactive Link |
-|---|------------|---|---|
-| Tuesday, June 9 | [LINK](https://teams.microsoft.com/meet/235558733426110?p=nUxy1I6RHKIEuUGdAi)   | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/introduction_python.ipynb) | 
-|  |            | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_basic_data_types.ipynb) |
-|  |            | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_conditional_statements.ipynb) |
-| Thursday, June 11 | [LINK](https://teams.microsoft.com/meet/22236366822505?p=JKKBPrEub5yc5vOBSS)   | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_loops.ipynb) |
-|  |            | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_data_structures.ipynb) |
-|Tuesday, June 16| [LINK](https://teams.microsoft.com/meet/25157545303988?p=SXpfUH9aO1cZuswFTF)   | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_functions.ipynb) |
-| |            | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_modules.ipynb) |
-| |            | **datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
-| Tuesday, June 18 | [LINK](https://teams.microsoft.com/meet/299124175356616?p=lCq0P6ANmu8UfWCYSR)   | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
-|  |            | **Manipulating YAML Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/yaml/understand_yaml.ipynb) |
+
+| Date | Building and Room | Teams Link | Lecture Topic | Interactive Link |
+|---|---|---|---|---|
+| Tuesday, June 9 | Bldg 28 Room S216 | [LINK](https://teams.microsoft.com/meet/235558733426110?p=nUxy1I6RHKIEuUGdAi)   | **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/introduction_python.ipynb) | 
+|  |      |      | **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_basic_data_types.ipynb) |
+|  |      |      | **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_conditional_statements.ipynb) |
+| Thursday, June 11 | Bldg 28 Atrium by the Hyperwall | [LINK](https://teams.microsoft.com/meet/22236366822505?p=JKKBPrEub5yc5vOBSS)   | **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_loops.ipynb) |
+|  |    |        | **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_data_structures.ipynb) |
+|Tuesday, June 16| Bldg 28 Atrium by the Hyperwall | [LINK](https://teams.microsoft.com/meet/25157545303988?p=SXpfUH9aO1cZuswFTF)   | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_functions.ipynb) |
+| |      |      | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_modules.ipynb) |
+| |     |       | **datetime Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
+| Tuesday, June 18 | Bldg 28 Atrium by the Hyperwall | [LINK](https://teams.microsoft.com/meet/299124175356616?p=lCq0P6ANmu8UfWCYSR)   | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
+|  |       |     | **Manipulating YAML Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/yaml/understand_yaml.ipynb) |
 
 
 To deepen your Python skills, you may consider doing the following exercises:
@@ -178,14 +165,14 @@ To deepen your Python skills, you may consider doing the following exercises:
 <p>
 
 
-## <span style="color: red">Data Science Tools</span>
+## <span style="color: red">Data Science track</span>
 
-This section is more for interns who will have a Data Science related project.
+This track is more for interns who will have a Data Science related project.
 
-| Date |  Teams Link | Lecture Topic | Interactive Link |
-|---|---|---|---|
-| Tuesday, June 23 | [LINK](https://teams.microsoft.com/meet/283857088300599?p=VVfixG8WDsnqBl4DFE)  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/pandas/fundamentals_pandas.ipynb) |
-| Thursday, June 25 | [LINK](https://teams.microsoft.com/meet/216200882307920?p=QFioVCy2og7MyRS7A0) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/web_scraping/understand_web_scaping.ipynb)  |
+| Date |  Building Room | Teams Link | Lecture Topic | Interactive Link |
+|---|---|---|---|---|
+| Tuesday, June 23 | Bldg 28 Atrium by the Hyperwall | [LINK](https://teams.microsoft.com/meet/283857088300599?p=VVfixG8WDsnqBl4DFE)  |  **Introduction to Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/pandas/fundamentals_pandas.ipynb) |
+| Thursday, June 25 | Bldg 28 Atrium by the Hyperwall | [LINK](https://teams.microsoft.com/meet/216200882307920?p=QFioVCy2og7MyRS7A0) | **Web Scraping**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/web_scraping/understand_web_scaping.ipynb)  |
 
 
 
