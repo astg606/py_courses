@@ -182,12 +182,15 @@ This track is more for interns who will have a Data Science related project.
 
 
 
-## <span style="color: red">Course Evaluation</span>
+## <span style="color: red">Course evaluation</span>
 
-The evaluation is required. Please take it after you have completed your last session. 
+To help us improve the program for future interns, please take ten minutes (or less)  
+to share your thoughts (after your last session) in our evaluation survey. 
+Your honest feedback is highly valued, and the results are entirely anonymous.
+
 
 <div align="center">
-<a href="https://forms.gle/vjeRGHVM2YQLvN5P8" target="_blank">Course Evaluation</a>
+<a href="https://forms.gle/BGvEeUbrdnfBhveL8" target="_blank">Course Evaluation</a>
 </div>
 
 <P>
