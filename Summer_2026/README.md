@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-<td> <img src="[https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg](https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg)" width="110" height="110"> </td>
+<td> <img src="https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg" width="110" height="110"> </td>
  </tr>
 </table>
 
@@ -85,7 +85,7 @@ If you score __at least 80%__,
 you may want to consider taking the **Manipulating YAML files** topic
 and the Data Science track.
 
->[!WARNING] If you encounter __DO NOT EDIT this field or your time will not be recorded__ while taking the test, fill out the box with anything. What you write will not affect your score.
+>__Caution__: If you encounter __DO NOT EDIT this field or your time will not be recorded__ while taking the test, fill out the box with anything. What you write will not affect your score.
 
 
 If you have any issue with the test, please contact Jules (Jules.Kouatchou@nasa.gov).
